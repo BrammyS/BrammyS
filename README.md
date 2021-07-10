@@ -1,16 +1,26 @@
-### Hi there 👋
+<h3 align="center">
+  Welcome to Bram Esendam's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
+</h3>
 
-<!--
-**BramEsendam/BramEsendam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning+new+things!;Currently+learning+everything+about+kubernetes!&center=true&width=380&height=45"></a>
+</p>
 
-Here are some ideas to get you started:
+## 📈 Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a>
+    <img title"title" alt="alt" src="https://github-readme-stats.vercel.app/api?username=BramEsendam&count_private=true&show_icons=true&theme=dracula"/>
+  </a>
+</p>
+
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="left">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
