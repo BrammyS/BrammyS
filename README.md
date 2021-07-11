@@ -13,7 +13,7 @@
 <!-- Github readme stats - https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img title"title" alt="alt" src="https://github-readme-stats.vercel.app/api?username=BramEsendam&count_private=true&show_icons=true&theme=dracula"/>
+    <img title"title" alt="alt" src="https://github-readme-stats.vercel.app/api?username=BramEsendam&count_private=true&show_icons=true&theme=dark"/>
   </a>
 </p>
 
@@ -22,6 +22,6 @@
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="left">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="BramEsendam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BramEsendam&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="BramEsendam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=BramEsendam&theme=dark-smoky&hide_border=true"/>
   </a>
 </p>
