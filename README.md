@@ -30,7 +30,9 @@
 <h2 align="center">📚 Languages </h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img title="Bram's top languages" alt="Bram's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrammyS&langs_count=10"/>
-  </a>
+    <img title="Bram's top languages" alt="Bram's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrammyS&langs_count=10&layout=compact"/>
+<!--   </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img title="Bram's top languages" alt="Bram's top languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=BrammyS"/>
+  </a> -->
 </p>
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BrammyS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  -->
