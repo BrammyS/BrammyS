@@ -229,7 +229,7 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    1.06k views in last two weeks
+                                    1.05k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -489,8 +489,8 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                         10
                     </div>
                     <div class="entry">
-                        <span class="value">14</span>
-                        <div class="bar" style="height: 29.166666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                        <span class="value">12</span>
+                        <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         11
                     </div>
                     <div class="entry">
@@ -524,8 +524,8 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                         17
                     </div>
                     <div class="entry">
-                        <span class="value"></span>
-                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                        <span class="value">2</span>
+                        <div class="bar" style="height: 4.166666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         18
                     </div>
                     <div class="entry">
@@ -575,8 +575,8 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                             Tue
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 1.282051282051282px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Wed
                         </div>
                         <div class="entry">
@@ -585,8 +585,8 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                             Thu
                         </div>
                         <div class="entry">
-                            <span class="value">7</span>
-                            <div class="bar" style="height: 8.974358974358974px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 6.41025641025641px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Fri
                         </div>
                         <div class="entry">
@@ -2632,6 +2632,86 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Color-Chan/Color-Chan.Discord</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#dfbb6aa</div>
+                                        <div class="message">Merge pull request #35 from Color-Chan/dependabot/nuget/dev/Microsoft.Extensions.Http.Polly-6.0.3
+
+Build(deps): Bump Microsoft.Extensions.Http.Polly from 6.0.1 to 6.0.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e8e481a</div>
+                                        <div class="message">Build(deps): Bump Microsoft.Extensions.Http.Polly from 6.0.1 to 6.0.3
+
+Bumps [Microsoft.Extensions.Http.Polly](https://github.com/dotnet/aspnetcore) from 6.0.1 to 6.0.3.
+- [Release notes](https://github.com/dotnet/aspnetcore/releases)
+- [Changelog](https://github.com/dotnet/aspnetcore/blob/main/docs/ReleasePlanning.md)
+- [Commits](https://github.com/dotnet/aspnetcore/compare/v6.0.1...v6.0.3)
+
+---
+updated-dependencies:
+- dependency-name: Microsoft.Extensions.Http.Polly
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Color-Chan/Color-Chan.Discord</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7243187</div>
+                                        <div class="message">Merge pull request #34 from Color-Chan/dependabot/nuget/dev/Microsoft.Extensions.Caching.StackExchangeRedis-6.0.3
+
+Build(deps): Bump Microsoft.Extensions.Caching.StackExchangeRedis from 6.0.1 to 6.0.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#117d87a</div>
+                                        <div class="message">Build(deps): Bump Microsoft.Extensions.Caching.StackExchangeRedis
+
+Bumps [Microsoft.Extensions.Caching.StackExchangeRedis](https://github.com/dotnet/aspnetcore) from 6.0.1 to 6.0.3.
+- [Release notes](https://github.com/dotnet/aspnetcore/releases)
+- [Changelog](https://github.com/dotnet/aspnetcore/blob/main/docs/ReleasePlanning.md)
+- [Commits](https://github.com/dotnet/aspnetcore/compare/v6.0.1...v6.0.3)
+
+---
+updated-dependencies:
+- dependency-name: Microsoft.Extensions.Caching.StackExchangeRedis
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">BrammyS/rust-wasm-worker</span>
                                     </div>
@@ -2725,92 +2805,12 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">BrammyS/Recipes-ionic-app</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f9d6e3d</div>
-                                        <div class="message">Merge pull request #41 from BrammyS/dependabot/npm_and_yarn/Recipes/ionic-native/status-bar-5.36.0
-
-Bump @ionic-native/status-bar from 5.13.0 to 5.36.0 in /Recipes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#552357f</div>
-                                        <div class="message">Bump @ionic-native/status-bar from 5.13.0 to 5.36.0 in /Recipes
-
-Bumps [@ionic-native/status-bar](https://github.com/ionic-team/ionic-native) from 5.13.0 to 5.36.0.
-- [Release notes](https://github.com/ionic-team/ionic-native/releases)
-- [Changelog](https://github.com/danielsogl/awesome-cordova-plugins/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/ionic-team/ionic-native/compare/v5.13.0...v5.36.0)
-
----
-updated-dependencies:
-- dependency-name: "@ionic-native/status-bar"
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">BrammyS/Recipes-ionic-app</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0ad8e6d</div>
-                                        <div class="message">Merge pull request #39 from BrammyS/dependabot/npm_and_yarn/Recipes/angular-devkit/core-8.3.29
-
-Bump @angular-devkit/core from 8.1.3 to 8.3.29 in /Recipes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d49918</div>
-                                        <div class="message">Bump @angular-devkit/core from 8.1.3 to 8.3.29 in /Recipes
-
-Bumps [@angular-devkit/core](https://github.com/angular/angular-cli) from 8.1.3 to 8.3.29.
-- [Release notes](https://github.com/angular/angular-cli/releases)
-- [Changelog](https://github.com/angular/angular-cli/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/angular/angular-cli/compare/v8.1.3...v8.3.29)
-
----
-updated-dependencies:
-- dependency-name: "@angular-devkit/core"
-  dependency-type: direct:development
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Mar 2022, 18:20:59 (timezone Europe/Amsterdam) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 9 Mar 2022, 19:22:55 (timezone Europe/Amsterdam) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
