@@ -424,7 +424,7 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 39.5 characters per line of code written</li>
+                        <li>Has approximately 39.6 characters per line of code written</li>
                         <li>Mostly pushes code around 16:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -2569,7 +2569,7 @@ This reverts commit ab3ac823b9eb7b7c7e4ec8e9d5bcb2fc010043b9.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Apr 2022, 13:13:17 (timezone Europe/Amsterdam) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 3 Apr 2022, 14:24:49 (timezone Europe/Amsterdam) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
