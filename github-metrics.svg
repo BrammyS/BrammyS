@@ -191,7 +191,7 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.13m added, 191k removed
+                                    3.14m added, 197k removed
                                 </div>
                             </section>
                             <section>
@@ -347,14 +347,14 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.71430719432664" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="184.71430719432664" y="0" width="62.11462741216729" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="246.82893460649393" y="0" width="56.74402235246103" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="303.57295695895493" y="0" width="46.812431325830744" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="350.38538828478573" y="0" width="34.15054204057084" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="384.53593032535656" y="0" width="33.975423528575895" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="418.51135385393246" y="0" width="23.449919284615497" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="441.961273138548" y="0" width="18.038726861452083" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="185.70278929327586" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="185.70278929327586" y="0" width="61.8915893143495" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="247.59437860762534" y="0" width="56.540268754712756" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="304.1346473623381" y="0" width="46.644339588471404" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="350.77898695080955" y="0" width="34.027915982047894" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="384.80690293285744" y="0" width="33.85342627684831" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="418.6603292097057" y="0" width="23.365716487156607" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="442.02604569686235" y="0" width="17.973954303137667" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -413,7 +413,7 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 156 commits)</small>
+                    <small class="h-details">(computed from last 157 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2444,6 +2444,46 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">BrammyS/POC-Temporal-EnityFramework</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#26ff40a</div>
+                                        <div class="message">Added more migrations</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">BrammyS/POC-Temporal-EnityFramework</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9995370</div>
+                                        <div class="message">Trying out migrations 1</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 3 commits in
                                         <span class="repo">BrammyS/POC-Temporal-EnityFramework</span>
                                     </div>
@@ -2505,52 +2545,12 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">BrammyS/POC-Temporal-EnityFramework</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7065832</div>
-                                        <div class="message">Added basic setup</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">BrammyS/POC-Temporal-EnityFramework</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7660367</div>
-                                        <div class="message">Project init</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Oct 2022, 16:34:36 (timezone Europe/Amsterdam) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 18 Oct 2022, 17:24:47 (timezone Europe/Amsterdam) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
