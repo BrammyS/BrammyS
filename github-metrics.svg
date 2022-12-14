@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1548" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1751" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -32,8 +32,8 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
@@ -42,8 +42,8 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -83,7 +83,7 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            7183 Commits
+                            7200 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -191,7 +191,7 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.40m added, 603k removed
+                                    3.60m added, 717k removed
                                 </div>
                             </section>
                             <section>
@@ -443,6 +443,12 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                         </h3>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
+                            </svg>
+                            Current streak 1 day
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
                             Best streak 20 days
@@ -463,7 +469,7 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~4.90
+                            Average per day at ~4.93
                         </div>
                     </section>
                 </div>
@@ -2364,47 +2370,47 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.081967213114754 0,2.081967213114754 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.081967213114754 1.7,3.081967213114754 z"/>
                             </g>
-                            <g transform="translate(-10.2, 11.606557377049182)">
+                            <g transform="translate(-10.2, 11.508196721311474)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3934426229508197 0,1.3934426229508197 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3934426229508197 1.7,2.3934426229508197 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4918032786885247 0,1.4918032786885247 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4918032786885247 1.7,2.4918032786885247 z"/>
                             </g>
                         </g>
                         <g transform="translate(86.7, 51)">
-                            <g transform="translate(0, 4.721311475409836)">
+                            <g transform="translate(0, 4.426229508196721)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.278688524590164 0,2.278688524590164 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.278688524590164 1.7,3.278688524590164 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5737704918032787 0,2.5737704918032787 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5737704918032787 1.7,3.5737704918032787 z"/>
                             </g>
                             <g transform="translate(-1.7, 7)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.9016393442622945)">
+                            <g transform="translate(-3.4, 7.704918032786885)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.098360655737705 0,1.098360655737705 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.098360655737705 1.7,2.098360655737705 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2950819672131146 0,1.2950819672131146 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2950819672131146 1.7,2.2950819672131146 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.803278688524589)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.19672131147541 0,1.1967213114754098 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1967213114754098 1.7,2.19672131147541 z"/>
                             </g>
-                            <g transform="translate(-6.8, 9.901639344262295)">
+                            <g transform="translate(-6.8, 9.803278688524589)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.098360655737705 0,1.098360655737705 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.098360655737705 1.7,2.098360655737705 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.19672131147541 0,1.1967213114754098 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1967213114754098 1.7,2.19672131147541 z"/>
                             </g>
                             <g transform="translate(-8.5, 11)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-10.2, 10.229508196721312)">
+                            <g transform="translate(-10.2, 10.131147540983607)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7704918032786887 0,2.7704918032786887 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7704918032786887 1.7,3.7704918032786887 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.8688524590163933 0,2.8688524590163933 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.8688524590163933 1.7,3.8688524590163933 z"/>
                             </g>
                         </g>
                         <g transform="translate(88.39999999999999, 52)">
@@ -2418,10 +2424,10 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-3.4, 7.80327868852459)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.19672131147541 0,1.1967213114754098 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1967213114754098 1.7,2.19672131147541 z"/>
                             </g>
                         </g>
                     </g>
@@ -2436,6 +2442,301 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
+                                        <span class="code">v4.12.1</span>
+                                        in
+                                        <span class="repo">Color-Chan/Color-Chan</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Released
+                                        <span class="bold">v4.12.1 - Updated dependencies</span>
+                                        of
+                                        <span class="repo">Color-Chan/Color-Chan</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 29 commits in
+                                        <span class="repo">Color-Chan/Color-Chan</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#80484ed</div>
+                                        <div class="message">Build(deps): Bump Microsoft.JSInterop from 7.0.0 to 7.0.1
+
+Bumps [Microsoft.JSInterop](https://github.com/dotnet/aspnetcore) from 7.0.0 to 7.0.1.
+- [Release notes](https://github.com/dotnet/aspnetcore/releases)
+- [Changelog](https://github.com/dotnet/aspnetcore/blob/main/docs/ReleasePlanning.md)
+- [Commits](https://github.com/dotnet/aspnetcore/compare/v7.0.0...v7.0.1)
+
+---
+updated-dependencies:
+- dependency-name: Microsoft.JSInterop
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2123ea8</div>
+                                        <div class="message">Build(deps): Bump Microsoft.AspNetCore.Components.WebAssembly
+
+Bumps [Microsoft.AspNetCore.Components.WebAssembly](https://github.com/dotnet/aspnetcore) from 7.0.0 to 7.0.1.
+- [Release notes](https://github.com/dotnet/aspnetcore/releases)
+- [Changelog](https://github.com/dotnet/aspnetcore/blob/main/docs/ReleasePlanning.md)
+- [Commits](https://github.com/dotnet/aspnetcore/compare/v7.0.0...v7.0.1)
+
+---
+updated-dependencies:
+- dependency-name: Microsoft.AspNetCore.Components.WebAssembly
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#272656a</div>
+                                        <div class="message">Build(deps): Bump AWSSDK.S3 from 3.7.101.33 to 3.7.101.34
+
+Bumps [AWSSDK.S3](https://github.com/aws/aws-sdk-net) from 3.7.101.33 to 3.7.101.34.
+- [Release notes](https://github.com/aws/aws-sdk-net/releases)
+- [Commits](https://github.com/aws/aws-sdk-net/commits)
+
+---
+updated-dependencies:
+- dependency-name: AWSSDK.S3
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#409b4cf</div>
+                                        <div class="message">Merge pull request #131 from Color-Chan/dependabot/npm_and_yarn/src/client/Color-Chan.Client/dev/postcss-8.4.20
+
+Build(deps-dev): Bump postcss from 8.4.19 to 8.4.20 in /src/client/Color-Chan.Client</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5856cda</div>
+                                        <div class="message">Merge pull request #130 from Color-Chan/dependabot/nuget/dev/Sodium.Core-1.3.2
+
+Build(deps): Bump Sodium.Core from 1.3.1 to 1.3.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#293031d</div>
+                                        <div class="message">Build(deps-dev): Bump postcss in /src/client/Color-Chan.Client
+
+Bumps [postcss](https://github.com/postcss/postcss) from 8.4.19 to 8.4.20.
+- [Release notes](https://github.com/postcss/postcss/releases)
+- [Changelog](https://github.com/postcss/postcss/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/postcss/postcss/compare/8.4.19...8.4.20)
+
+---
+updated-dependencies:
+- dependency-name: postcss
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6254d04</div>
+                                        <div class="message">Build(deps): Bump Sodium.Core from 1.3.1 to 1.3.2
+
+Bumps [Sodium.Core](https://github.com/ektrah/libsodium-core) from 1.3.1 to 1.3.2.
+- [Release notes](https://github.com/ektrah/libsodium-core/releases)
+- [Commits](https://github.com/ektrah/libsodium-core/compare/v1.3.1...v1.3.2)
+
+---
+updated-dependencies:
+- dependency-name: Sodium.Core
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ecf630c</div>
+                                        <div class="message">Merge pull request #129 from Color-Chan/dependabot/nuget/dev/AWSSDK.S3-3.7.101.33
+
+Build(deps): Bump AWSSDK.S3 from 3.7.101.30 to 3.7.101.33</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cba6629</div>
+                                        <div class="message">Build(deps): Bump AWSSDK.S3 from 3.7.101.30 to 3.7.101.33
+
+Bumps [AWSSDK.S3](https://github.com/aws/aws-sdk-net) from 3.7.101.30 to 3.7.101.33.
+- [Release notes](https://github.com/aws/aws-sdk-net/releases)
+- [Commits](https://github.com/aws/aws-sdk-net/commits)
+
+---
+updated-dependencies:
+- dependency-name: AWSSDK.S3
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4016237</div>
+                                        <div class="message">Merge pull request #128 from Color-Chan/dependabot/nuget/dev/AWSSDK.S3-3.7.101.30
+
+Build(deps): Bump AWSSDK.S3 from 3.7.101.29 to 3.7.101.30</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3364cf0</div>
+                                        <div class="message">Build(deps): Bump AWSSDK.S3 from 3.7.101.29 to 3.7.101.30
+
+Bumps [AWSSDK.S3](https://github.com/aws/aws-sdk-net) from 3.7.101.29 to 3.7.101.30.
+- [Release notes](https://github.com/aws/aws-sdk-net/releases)
+- [Commits](https://github.com/aws/aws-sdk-net/commits)
+
+---
+updated-dependencies:
+- dependency-name: AWSSDK.S3
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f3b515</div>
+                                        <div class="message">Merge pull request #127 from Color-Chan/dependabot/nuget/dev/Moq-4.18.3
+
+Build(deps): Bump Moq from 4.18.2 to 4.18.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de71d80</div>
+                                        <div class="message">Merge pull request #126 from Color-Chan/dependabot/nuget/dev/AWSSDK.S3-3.7.101.29
+
+Build(deps): Bump AWSSDK.S3 from 3.7.101.28 to 3.7.101.29</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe75cdc</div>
+                                        <div class="message">Build(deps): Bump Moq from 4.18.2 to 4.18.3
+
+Bumps [Moq](https://github.com/moq/moq4) from 4.18.2 to 4.18.3.
+- [Release notes](https://github.com/moq/moq4/releases)
+- [Changelog](https://github.com/moq/moq4/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/moq/moq4/compare/v4.18.2...v4.18.3)
+
+---
+updated-dependencies:
+- dependency-name: Moq
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#10d04f2</div>
+                                        <div class="message">Build(deps): Bump AWSSDK.S3 from 3.7.101.28 to 3.7.101.29
+
+Bumps [AWSSDK.S3](https://github.com/aws/aws-sdk-net) from 3.7.101.28 to 3.7.101.29.
+- [Release notes](https://github.com/aws/aws-sdk-net/releases)
+- [Commits](https://github.com/aws/aws-sdk-net/commits)
+
+---
+updated-dependencies:
+- dependency-name: AWSSDK.S3
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0adadd</div>
+                                        <div class="message">yaml cleanup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#46ec996</div>
+                                        <div class="message">Updated pacakges</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6181928</div>
+                                        <div class="message">Full code cleanup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a309f2a</div>
+                                        <div class="message">Merge pull request #125 from Color-Chan/dependabot/nuget/dev/AWSSDK.S3-3.7.101.28
+
+Build(deps): Bump AWSSDK.S3 from 3.7.101.27 to 3.7.101.28</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b1c4b66</div>
+                                        <div class="message">Build(deps): Bump AWSSDK.S3 from 3.7.101.27 to 3.7.101.28
+
+Bumps [AWSSDK.S3](https://github.com/aws/aws-sdk-net) from 3.7.101.27 to 3.7.101.28.
+- [Release notes](https://github.com/aws/aws-sdk-net/releases)
+- [Commits](https://github.com/aws/aws-sdk-net/commits)
+
+---
+updated-dependencies:
+- dependency-name: AWSSDK.S3
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Color-Chan/Color-Chan</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#607574a</div>
+                                        <div class="message">Updated dependencies</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2476,172 +2777,12 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Color-Chan/Color-Chan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f1c61e6</div>
-                                        <div class="message">Merge pull request #136 from Color-Chan/dependabot/nuget/dev/Microsoft.AspNetCore.Authentication.JwtBearer-7.0.1
-
-Build(deps): Bump Microsoft.AspNetCore.Authentication.JwtBearer from 7.0.0 to 7.0.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e92f87d</div>
-                                        <div class="message">Build(deps): Bump Microsoft.AspNetCore.Authentication.JwtBearer
-
-Bumps [Microsoft.AspNetCore.Authentication.JwtBearer](https://github.com/dotnet/aspnetcore) from 7.0.0 to 7.0.1.
-- [Release notes](https://github.com/dotnet/aspnetcore/releases)
-- [Changelog](https://github.com/dotnet/aspnetcore/blob/main/docs/ReleasePlanning.md)
-- [Commits](https://github.com/dotnet/aspnetcore/compare/v7.0.0...v7.0.1)
-
----
-updated-dependencies:
-- dependency-name: Microsoft.AspNetCore.Authentication.JwtBearer
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Color-Chan/Color-Chan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0af20a5</div>
-                                        <div class="message">Merge pull request #135 from Color-Chan/dependabot/nuget/dev/Microsoft.AspNetCore.Components.WebAssembly.Server-7.0.1
-
-Build(deps): Bump Microsoft.AspNetCore.Components.WebAssembly.Server from 7.0.0 to 7.0.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9614896</div>
-                                        <div class="message">Build(deps): Bump Microsoft.AspNetCore.Components.WebAssembly.Server
-
-Bumps [Microsoft.AspNetCore.Components.WebAssembly.Server](https://github.com/dotnet/aspnetcore) from 7.0.0 to 7.0.1.
-- [Release notes](https://github.com/dotnet/aspnetcore/releases)
-- [Changelog](https://github.com/dotnet/aspnetcore/blob/main/docs/ReleasePlanning.md)
-- [Commits](https://github.com/dotnet/aspnetcore/compare/v7.0.0...v7.0.1)
-
----
-updated-dependencies:
-- dependency-name: Microsoft.AspNetCore.Components.WebAssembly.Server
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Color-Chan/Color-Chan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d040d7a</div>
-                                        <div class="message">Merge pull request #134 from Color-Chan/dependabot/nuget/dev/Microsoft.JSInterop-7.0.1
-
-Build(deps): Bump Microsoft.JSInterop from 7.0.0 to 7.0.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80484ed</div>
-                                        <div class="message">Build(deps): Bump Microsoft.JSInterop from 7.0.0 to 7.0.1
-
-Bumps [Microsoft.JSInterop](https://github.com/dotnet/aspnetcore) from 7.0.0 to 7.0.1.
-- [Release notes](https://github.com/dotnet/aspnetcore/releases)
-- [Changelog](https://github.com/dotnet/aspnetcore/blob/main/docs/ReleasePlanning.md)
-- [Commits](https://github.com/dotnet/aspnetcore/compare/v7.0.0...v7.0.1)
-
----
-updated-dependencies:
-- dependency-name: Microsoft.JSInterop
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Color-Chan/Color-Chan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8f62f7f</div>
-                                        <div class="message">Merge pull request #133 from Color-Chan/dependabot/nuget/dev/Microsoft.AspNetCore.Components.WebAssembly-7.0.1
-
-Build(deps): Bump Microsoft.AspNetCore.Components.WebAssembly from 7.0.0 to 7.0.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2123ea8</div>
-                                        <div class="message">Build(deps): Bump Microsoft.AspNetCore.Components.WebAssembly
-
-Bumps [Microsoft.AspNetCore.Components.WebAssembly](https://github.com/dotnet/aspnetcore) from 7.0.0 to 7.0.1.
-- [Release notes](https://github.com/dotnet/aspnetcore/releases)
-- [Changelog](https://github.com/dotnet/aspnetcore/blob/main/docs/ReleasePlanning.md)
-- [Commits](https://github.com/dotnet/aspnetcore/compare/v7.0.0...v7.0.1)
-
----
-updated-dependencies:
-- dependency-name: Microsoft.AspNetCore.Components.WebAssembly
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Dec 2022, 18:13:23 (timezone Europe/Amsterdam) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 14 Dec 2022, 19:18:16 (timezone Europe/Amsterdam) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
