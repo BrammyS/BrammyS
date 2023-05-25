@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -83,7 +83,7 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            8323 Commits
+                            8324 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -191,7 +191,7 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.13m added, 730k removed
+                                    231k added, 93.8k removed
                                 </div>
                             </section>
                             <section>
@@ -347,14 +347,14 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="232.66676884109992" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="232.66676884109992" y="0" width="50.53948100765501" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="283.20624984875496" y="0" width="46.16969560085289" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="329.3759454496078" y="0" width="38.08887024653615" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="367.46481569614394" y="0" width="31.133947993213468" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="398.59876368935744" y="0" width="27.64405654010481" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="426.2428202294622" y="0" width="19.079994514846213" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="445.3228147443084" y="0" width="14.67718525569152" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="232.88020147073635" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="232.88020147073635" y="0" width="50.49203183237635" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="283.3722333031127" y="0" width="46.12634901447232" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="329.49858231758503" y="0" width="38.05311037238508" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="367.5516926899701" y="0" width="31.104717773076793" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="398.6564104630469" y="0" width="27.618102817232465" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="426.2745132802794" y="0" width="19.06208119270676" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="445.3365944729862" y="0" width="14.663405527013868" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2571,7 +2571,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 May 2023, 16:12:23 (timezone Europe/Amsterdam) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 May 2023, 17:12:29 (timezone Europe/Amsterdam) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
