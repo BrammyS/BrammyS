@@ -83,7 +83,7 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            8579 Commits
+                            8581 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -191,7 +191,7 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.15m added, 781k removed
+                                    1.20m added, 789k removed
                                 </div>
                             </section>
                             <section>
@@ -413,13 +413,13 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 104 commits)</small>
+                    <small class="h-details">(computed from last 112 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 60.7 characters per line of code written</li>
-                        <li>Mostly pushes code around 11:00</li>
+                        <li>Has approximately 58.3 characters per line of code written</li>
+                        <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
                 </div>
@@ -2460,18 +2460,18 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4589e03</div>
-                                        <div class="message">Merge pull request #98 from Color-Chan/dependabot/cargo/dev/serde-1.0.165
+                                        <div class="sha">#3aa805d</div>
+                                        <div class="message">Merge pull request #101 from Color-Chan/dependabot/cargo/dev/serde-1.0.167
 
-Bump serde from 1.0.164 to 1.0.165</div>
+Bump serde from 1.0.165 to 1.0.167</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#c6676e6</div>
-                                        <div class="message">Bump serde from 1.0.164 to 1.0.165
+                                        <div class="sha">#2ac8fe1</div>
+                                        <div class="message">Bump serde from 1.0.165 to 1.0.167
 
-Bumps [serde](https://github.com/serde-rs/serde) from 1.0.164 to 1.0.165.
+Bumps [serde](https://github.com/serde-rs/serde) from 1.0.165 to 1.0.167.
 - [Release notes](https://github.com/serde-rs/serde/releases)
-- [Commits](https://github.com/serde-rs/serde/compare/v1.0.164...v1.0.165)
+- [Commits](https://github.com/serde-rs/serde/compare/v1.0.165...v1.0.167)
 
 ---
 updated-dependencies:
@@ -2497,26 +2497,40 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2313a94</div>
-                                        <div class="message">Merge pull request #380 from Color-Chan/dependabot/nuget/dev/AWSSDK.S3-3.7.107.1
+                                        <div class="sha">#24fff98</div>
+                                        <div class="message">Merge pull request #388 from Color-Chan/dependabot/npm_and_yarn/src/client/Color-Chan.Client/semver-and-babel/core-and-putout/cli-cache--removed
 
-Build(deps): Bump AWSSDK.S3 from 3.7.107 to 3.7.107.1</div>
+Build(deps): Bump semver, @babel/core and @putout/cli-cache in /src/client/Color-Chan.Client</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a7511eb</div>
-                                        <div class="message">Build(deps): Bump AWSSDK.S3 from 3.7.107 to 3.7.107.1
+                                        <div class="sha">#b555548</div>
+                                        <div class="message">Build(deps): Bump semver, @babel/core and @putout/cli-cache
 
-Bumps [AWSSDK.S3](https://github.com/aws/aws-sdk-net) from 3.7.107 to 3.7.107.1.
-- [Changelog](https://github.com/aws/aws-sdk-net/blob/master/SDK.CHANGELOG.MD)
-- [Commits](https://github.com/aws/aws-sdk-net/commits)
+Removes [semver](https://github.com/npm/node-semver). It's no longer used after updating ancestor dependencies [semver](https://github.com/npm/node-semver), [@babel/core](https://github.com/babel/babel/tree/HEAD/packages/babel-core) and [@putout/cli-cache](https://github.com/coderaiser/putout). These dependencies need to be updated together.
+
+
+Removes `semver`
+
+Updates `@babel/core` from 7.21.8 to 7.22.8
+- [Release notes](https://github.com/babel/babel/releases)
+- [Changelog](https://github.com/babel/babel/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/babel/babel/commits/v7.22.8/packages/babel-core)
+
+Updates `@putout/cli-cache` from 2.1.1 to 2.3.0
+- [Release notes](https://github.com/coderaiser/putout/releases)
+- [Changelog](https://github.com/coderaiser/putout/blob/v2.3.0/ChangeLog)
+- [Commits](https://github.com/coderaiser/putout/compare/v2.1.1...v2.3.0)
 
 ---
 updated-dependencies:
-- dependency-name: AWSSDK.S3
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
+- dependency-name: semver
+  dependency-type: indirect
+- dependency-name: "@babel/core"
+  dependency-type: indirect
+- dependency-name: "@putout/cli-cache"
+  dependency-type: indirect
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
@@ -2538,23 +2552,22 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4b4e84e</div>
-                                        <div class="message">Merge pull request #378 from Color-Chan/dependabot/nuget/dev/Testcontainers-3.3.0
+                                        <div class="sha">#b1576fe</div>
+                                        <div class="message">Merge pull request #386 from Color-Chan/dependabot/nuget/dev/MediatR-12.1.0
 
-Build(deps): Bump Testcontainers from 3.2.0 to 3.3.0</div>
+Build(deps): Bump MediatR from 12.0.1 to 12.1.0</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#a4d8356</div>
-                                        <div class="message">Build(deps): Bump Testcontainers from 3.2.0 to 3.3.0
+                                        <div class="sha">#6e8d54a</div>
+                                        <div class="message">Build(deps): Bump MediatR from 12.0.1 to 12.1.0
 
-Bumps [Testcontainers](https://github.com/testcontainers/testcontainers-dotnet) from 3.2.0 to 3.3.0.
-- [Release notes](https://github.com/testcontainers/testcontainers-dotnet/releases)
-- [Changelog](https://github.com/testcontainers/testcontainers-dotnet/blob/develop/CHANGELOG.md)
-- [Commits](https://github.com/testcontainers/testcontainers-dotnet/compare/3.2.0...3.3.0)
+Bumps [MediatR](https://github.com/jbogard/MediatR) from 12.0.1 to 12.1.0.
+- [Release notes](https://github.com/jbogard/MediatR/releases)
+- [Commits](https://github.com/jbogard/MediatR/compare/v12.0.1...v12.1.0)
 
 ---
 updated-dependencies:
-- dependency-name: Testcontainers
+- dependency-name: MediatR
   dependency-type: direct:production
   update-type: version-update:semver-minor
 ...
@@ -2576,26 +2589,26 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b655f98</div>
-                                        <div class="message">Merge pull request #379 from Color-Chan/dependabot/nuget/dev/AWSSDK.S3-3.7.107
+                                        <div class="sha">#2252e5a</div>
+                                        <div class="message">Merge pull request #385 from Color-Chan/dependabot/npm_and_yarn/src/client/Color-Chan.Client/stylelint-15.10.1
 
-Build(deps): Bump AWSSDK.S3 from 3.7.106.1 to 3.7.107</div>
+Build(deps): Bump stylelint from 15.6.1 to 15.10.1 in /src/client/Color-Chan.Client</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8d764ae</div>
-                                        <div class="message">Build(deps): Bump AWSSDK.S3 from 3.7.106.1 to 3.7.107
+                                        <div class="sha">#470c8ef</div>
+                                        <div class="message">Build(deps): Bump stylelint in /src/client/Color-Chan.Client
 
-Bumps [AWSSDK.S3](https://github.com/aws/aws-sdk-net) from 3.7.106.1 to 3.7.107.
-- [Changelog](https://github.com/aws/aws-sdk-net/blob/3.7.107.0/SDK.CHANGELOG.md)
-- [Commits](https://github.com/aws/aws-sdk-net/commits/3.7.107.0)
+Bumps [stylelint](https://github.com/stylelint/stylelint) from 15.6.1 to 15.10.1.
+- [Release notes](https://github.com/stylelint/stylelint/releases)
+- [Changelog](https://github.com/stylelint/stylelint/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/stylelint/stylelint/compare/15.6.1...15.10.1)
 
 ---
 updated-dependencies:
-- dependency-name: AWSSDK.S3
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
+- dependency-name: stylelint
+  dependency-type: indirect
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
@@ -2611,30 +2624,30 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
-                                        <span class="repo">BrammyS/Discord-Bot-Template</span>
+                                        <span class="repo">Color-Chan/Color-Chan</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b2bd686</div>
-                                        <div class="message">Merge pull request #105 from BrammyS/dependabot/nuget/dev/Microsoft.NET.Test.Sdk-17.6.3
+                                        <div class="sha">#06327d4</div>
+                                        <div class="message">Merge pull request #383 from Color-Chan/dependabot/npm_and_yarn/src/client/Color-Chan.Client/dev/postcss-8.4.25
 
-Build(deps): Bump Microsoft.NET.Test.Sdk from 17.6.2 to 17.6.3</div>
+Build(deps-dev): Bump postcss from 8.4.24 to 8.4.25 in /src/client/Color-Chan.Client</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#44ca74f</div>
-                                        <div class="message">Build(deps): Bump Microsoft.NET.Test.Sdk from 17.6.2 to 17.6.3
+                                        <div class="sha">#6971360</div>
+                                        <div class="message">Build(deps-dev): Bump postcss in /src/client/Color-Chan.Client
 
-Bumps [Microsoft.NET.Test.Sdk](https://github.com/microsoft/vstest) from 17.6.2 to 17.6.3.
-- [Release notes](https://github.com/microsoft/vstest/releases)
-- [Changelog](https://github.com/microsoft/vstest/blob/main/docs/releases.md)
-- [Commits](https://github.com/microsoft/vstest/compare/v17.6.2...v17.6.3)
+Bumps [postcss](https://github.com/postcss/postcss) from 8.4.24 to 8.4.25.
+- [Release notes](https://github.com/postcss/postcss/releases)
+- [Changelog](https://github.com/postcss/postcss/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/postcss/postcss/compare/8.4.24...8.4.25)
 
 ---
 updated-dependencies:
-- dependency-name: Microsoft.NET.Test.Sdk
-  dependency-type: direct:production
+- dependency-name: postcss
+  dependency-type: direct:development
   update-type: version-update:semver-patch
 ...
 
@@ -2648,7 +2661,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jul 2023, 00:13:41 (timezone Europe/Amsterdam) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 Jul 2023, 01:14:26 (timezone Europe/Amsterdam) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
