@@ -83,7 +83,7 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            9683 Commits
+                            9687 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -191,7 +191,7 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.67m added, 713k removed
+                                    1.26m added, 772k removed
                                 </div>
                             </section>
                             <section>
@@ -223,7 +223,7 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    923 views in last two weeks
+                                    928 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -293,13 +293,13 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="3.1132075471698113" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="3.1132075471698113" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="3.1132075471698113" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="3.1132075471698113" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="3.1132075471698113" y="0" width="13.49056603773585" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="16.60377358490566" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="16.60377358490566" y="0" width="203.39622641509433" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="2.5943396226415096" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="2.5943396226415096" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="2.5943396226415096" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="2.5943396226415096" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="2.5943396226415096" y="0" width="13.49056603773585" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="16.08490566037736" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="16.08490566037736" y="0" width="203.91509433962264" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -307,13 +307,13 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#238636" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">6 <small>open</small></span>
+                                <span class="no-wrap">5 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">392 <small>merged</small></span>
+                                <span class="no-wrap">393 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -347,14 +347,14 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="241.99350322079854" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="241.99350322079854" y="0" width="46.09865833783987" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="288.0921615586384" y="0" width="42.11283892573831" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="330.20500048437674" y="0" width="36.75719728601892" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="366.9621977703957" y="0" width="34.63669171936562" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="401.5988894897613" y="0" width="27.414946516227843" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="429.0138360059891" y="0" width="17.40346617517759" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="446.41730218116675" y="0" width="13.582697818833301" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.72687761315294" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="239.72687761315294" y="0" width="45.666876500410474" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="285.39375411356343" y="0" width="41.71839015810904" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="327.11214427167243" y="0" width="38.80145006373973" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="365.91359433541214" y="0" width="34.31226808248969" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="400.22586241790185" y="0" width="28.997066781795827" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="429.22292919969766" y="0" width="17.24045707960506" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="446.4633862793027" y="0" width="13.536613720697277" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -463,7 +463,7 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~7.22
+                            Average per day at ~7.23
                         </div>
                     </section>
                 </div>
@@ -2423,20 +2423,20 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.973684210526316 0,2.973684210526316 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.973684210526316 1.7,3.973684210526316 z"/>
                             </g>
-                            <g transform="translate(-5.1, 6.947368421052632)">
+                            <g transform="translate(-5.1, 6.710526315789474)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.052631578947368 0,3.0526315789473686 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.0526315789473686 1.7,4.052631578947368 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.2894736842105265 0,3.2894736842105265 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2894736842105265 1.7,4.2894736842105265 z"/>
                             </g>
                             <g transform="translate(-6.8, 8.578947368421053)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.4210526315789473 0,2.4210526315789473 z"/>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.4210526315789473 1.7,3.4210526315789473 z"/>
                             </g>
-                            <g transform="translate(-8.5, 10.921052631578947)">
+                            <g transform="translate(-8.5, 10.842105263157894)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0789473684210527 0,1.0789473684210527 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0789473684210527 1.7,2.0789473684210527 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1578947368421053 0,1.1578947368421053 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1578947368421053 1.7,2.1578947368421053 z"/>
                             </g>
                             <g transform="translate(-10.2, 12)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2579,7 +2579,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Dec 2023, 19:15:33 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Dec 2023, 20:10:22 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
