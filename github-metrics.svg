@@ -191,7 +191,7 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    902k added, 650k removed
+                                    851k added, 618k removed
                                 </div>
                             </section>
                             <section>
@@ -413,12 +413,12 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 114 commits)</small>
+                    <small class="h-details">(computed from last 117 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 51.7 characters per line of code written</li>
+                        <li>Has approximately 52.0 characters per line of code written</li>
                         <li>Mostly pushes code around 08:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -2455,6 +2455,126 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
+                                        <div class="sha">#fa8528c</div>
+                                        <div class="message">Merge pull request #275 from Esendam-Software/dependabot/npm_and_yarn/dev/next-14.2.3
+
+Bump next from 14.2.2 to 14.2.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#46ccee5</div>
+                                        <div class="message">Bump next from 14.2.2 to 14.2.3
+
+Bumps [next](https://github.com/vercel/next.js) from 14.2.2 to 14.2.3.
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/compare/v14.2.2...v14.2.3)
+
+---
+updated-dependencies:
+- dependency-name: next
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Esendam-Software/Esendam-Software-website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d0f2c17</div>
+                                        <div class="message">Merge pull request #274 from Esendam-Software/dependabot/npm_and_yarn/dev/vercel-34.1.2
+
+Bump vercel from 34.1.1 to 34.1.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd5377b</div>
+                                        <div class="message">Bump vercel from 34.1.1 to 34.1.2
+
+Bumps [vercel](https://github.com/vercel/vercel/tree/HEAD/packages/cli) from 34.1.1 to 34.1.2.
+- [Release notes](https://github.com/vercel/vercel/releases)
+- [Changelog](https://github.com/vercel/vercel/blob/main/packages/cli/CHANGELOG.md)
+- [Commits](https://github.com/vercel/vercel/commits/vercel@34.1.2/packages/cli)
+
+---
+updated-dependencies:
+- dependency-name: vercel
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Esendam-Software/Esendam-Software-website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#03642f1</div>
+                                        <div class="message">Merge pull request #276 from Esendam-Software/dependabot/npm_and_yarn/dev/eslint-config-next-14.2.3
+
+Bump eslint-config-next from 14.2.2 to 14.2.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#de0b421</div>
+                                        <div class="message">Bump eslint-config-next from 14.2.2 to 14.2.3
+
+Bumps [eslint-config-next](https://github.com/vercel/next.js/tree/HEAD/packages/eslint-config-next) from 14.2.2 to 14.2.3.
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/commits/v14.2.3/packages/eslint-config-next)
+
+---
+updated-dependencies:
+- dependency-name: eslint-config-next
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Esendam-Software/Esendam-Software-website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
                                         <div class="sha">#4a7f712</div>
                                         <div class="message">Merge pull request #273 from Esendam-Software/dependabot/npm_and_yarn/dev/eslint-plugin-next-on-pages-1.11.1
 
@@ -2520,131 +2640,12 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">BrammyS/GalleryPixels</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e24ec1c</div>
-                                        <div class="message">Merge pull request #78 from BrammyS/dependabot/nuget/dev/FluentValidation-11.9.1
-
-Bump FluentValidation from 11.9.0 to 11.9.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9b912d2</div>
-                                        <div class="message">Bump FluentValidation from 11.9.0 to 11.9.1
-
-Bumps [FluentValidation](https://github.com/JeremySkinner/fluentvalidation) from 11.9.0 to 11.9.1.
-- [Release notes](https://github.com/JeremySkinner/fluentvalidation/releases)
-- [Changelog](https://github.com/FluentValidation/FluentValidation/blob/main/Changelog.txt)
-- [Commits](https://github.com/JeremySkinner/fluentvalidation/compare/11.9.0...11.9.1)
-
----
-updated-dependencies:
-- dependency-name: FluentValidation
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Color-Chan/Color-Chan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9db0489</div>
-                                        <div class="message">Merge pull request #710 from Color-Chan/dependabot/nuget/dev/FluentValidation-11.9.1
-
-Build(deps): Bump FluentValidation from 11.9.0 to 11.9.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d63c3a</div>
-                                        <div class="message">Build(deps): Bump FluentValidation from 11.9.0 to 11.9.1
-
-Bumps [FluentValidation](https://github.com/JeremySkinner/fluentvalidation) from 11.9.0 to 11.9.1.
-- [Release notes](https://github.com/JeremySkinner/fluentvalidation/releases)
-- [Changelog](https://github.com/FluentValidation/FluentValidation/blob/main/Changelog.txt)
-- [Commits](https://github.com/JeremySkinner/fluentvalidation/compare/11.9.0...11.9.1)
-
----
-updated-dependencies:
-- dependency-name: FluentValidation
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Color-Chan/Color-Chan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5d23cb4</div>
-                                        <div class="message">Merge pull request #711 from Color-Chan/dependabot/nuget/dev/AWSSDK.S3-3.7.307.22
-
-Build(deps): Bump AWSSDK.S3 from 3.7.307.20 to 3.7.307.22</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90379e5</div>
-                                        <div class="message">Build(deps): Bump AWSSDK.S3 from 3.7.307.20 to 3.7.307.22
-
-Bumps [AWSSDK.S3](https://github.com/aws/aws-sdk-net) from 3.7.307.20 to 3.7.307.22.
-- [Changelog](https://github.com/aws/aws-sdk-net/blob/main/SDK.CHANGELOG.MD)
-- [Commits](https://github.com/aws/aws-sdk-net/commits)
-
----
-updated-dependencies:
-- dependency-name: AWSSDK.S3
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Apr 2024, 15:11:47 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Apr 2024, 16:10:37 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
