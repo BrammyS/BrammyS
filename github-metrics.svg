@@ -191,7 +191,7 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.90m added, 79k removed
+                                    506k added, 171k removed
                                 </div>
                             </section>
                             <section>
@@ -418,7 +418,7 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 40.1 characters per line of code written</li>
+                        <li>Has approximately 40.0 characters per line of code written</li>
                         <li>Mostly pushes code around 12:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -2454,6 +2454,85 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                                     </svg>
                                     <div class="content">
                                         Pushed 2 commits in
+                                        <span class="repo">Color-Chan/Color-Chan.Gateway</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#375061d</div>
+                                        <div class="message">Merge pull request #246 from Color-Chan/dependabot/cargo/dev/anyhow-1.0.88
+
+Build(deps): bump anyhow from 1.0.87 to 1.0.88</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#20f14b0</div>
+                                        <div class="message">Build(deps): bump anyhow from 1.0.87 to 1.0.88
+
+Bumps [anyhow](https://github.com/dtolnay/anyhow) from 1.0.87 to 1.0.88.
+- [Release notes](https://github.com/dtolnay/anyhow/releases)
+- [Commits](https://github.com/dtolnay/anyhow/compare/1.0.87...1.0.88)
+
+---
+updated-dependencies:
+- dependency-name: anyhow
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Color-Chan/Color-Chan</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6cf83ae</div>
+                                        <div class="message">Merge pull request #860 from Color-Chan/dependabot/npm_and_yarn/src/client/Color-Chan.Client/dev/minify-11.4.1
+
+Build(deps-dev): Bump minify from 11.4.0 to 11.4.1 in /src/client/Color-Chan.Client</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da73578</div>
+                                        <div class="message">Build(deps-dev): Bump minify in /src/client/Color-Chan.Client
+
+Bumps [minify](https://github.com/coderaiser/minify) from 11.4.0 to 11.4.1.
+- [Release notes](https://github.com/coderaiser/minify/releases)
+- [Changelog](https://github.com/coderaiser/minify/blob/master/ChangeLog)
+- [Commits](https://github.com/coderaiser/minify/compare/v11.4.0...v11.4.1)
+
+---
+updated-dependencies:
+- dependency-name: minify
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
                                         <span class="repo">Esendam-Software/Esendam-Software-website</span>
                                     </div>
                                 </div>
@@ -2566,91 +2645,12 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Esendam-Software/Esendam-Software-website</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ab3c152</div>
-                                        <div class="message">Merge pull request #393 from Esendam-Software/dependabot/npm_and_yarn/dev/tailwindcss-3.4.11
-
-Bump tailwindcss from 3.4.10 to 3.4.11</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f0e871</div>
-                                        <div class="message">Bump tailwindcss from 3.4.10 to 3.4.11
-
-Bumps [tailwindcss](https://github.com/tailwindlabs/tailwindcss) from 3.4.10 to 3.4.11.
-- [Release notes](https://github.com/tailwindlabs/tailwindcss/releases)
-- [Changelog](https://github.com/tailwindlabs/tailwindcss/blob/v3.4.11/CHANGELOG.md)
-- [Commits](https://github.com/tailwindlabs/tailwindcss/compare/v3.4.10...v3.4.11)
-
----
-updated-dependencies:
-- dependency-name: tailwindcss
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Color-Chan/Color-Chan</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5b38794</div>
-                                        <div class="message">Merge pull request #859 from Color-Chan/dependabot/nuget/dev/AWSSDK.S3-3.7.402.10
-
-Build(deps): Bump AWSSDK.S3 from 3.7.402.9 to 3.7.402.10</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#142d671</div>
-                                        <div class="message">Build(deps): Bump AWSSDK.S3 from 3.7.402.9 to 3.7.402.10
-
-Bumps [AWSSDK.S3](https://github.com/aws/aws-sdk-net) from 3.7.402.9 to 3.7.402.10.
-- [Changelog](https://github.com/aws/aws-sdk-net/blob/main/SDK.CHANGELOG.MD)
-- [Commits](https://github.com/aws/aws-sdk-net/commits)
-
----
-updated-dependencies:
-- dependency-name: AWSSDK.S3
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Sept 2024, 12:16:45 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Sept 2024, 13:14:09 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
