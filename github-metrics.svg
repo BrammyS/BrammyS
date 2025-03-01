@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1758" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1458" class="">
     <defs>
         <style/>
     </defs>
@@ -191,7 +191,7 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    884k added, 652k removed
+                                    3.44m added, 618k removed
                                 </div>
                             </section>
                             <section>
@@ -413,12 +413,12 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 149 commits)</small>
+                    <small class="h-details">(computed from last 150 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 46.0 characters per line of code written</li>
+                        <li>Has approximately 45.7 characters per line of code written</li>
                         <li>Mostly pushes code around 10:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -2464,6 +2464,168 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">Color-Chan/Color-Chan.Gateway</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fe53d0d</div>
+                                        <div class="message">Merge pull request #280 from Color-Chan/dependabot/cargo/dev/cargo-deps-ac03010df8
+
+Build(deps): bump the cargo-deps group across 1 directory with 13 updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#724afba</div>
+                                        <div class="message">Build(deps): bump the cargo-deps group across 1 directory with 13 updates
+
+Bumps the cargo-deps group with 13 updates in the / directory:
+
+| Package | From | To |
+| --- | --- | --- |
+| [tokio](https://github.com/tokio-rs/tokio) | `1.41.0` | `1.43.0` |
+| [tracing-subscriber](https://github.com/tokio-rs/tracing) | `0.3.18` | `0.3.19` |
+| [anyhow](https://github.com/dtolnay/anyhow) | `1.0.90` | `1.0.96` |
+| [reqwest](https://github.com/seanmonstar/reqwest) | `0.12.8` | `0.12.12` |
+| [log](https://github.com/rust-lang/log) | `0.4.22` | `0.4.26` |
+| [serde](https://github.com/serde-rs/serde) | `1.0.212` | `1.0.218` |
+| [serde_json](https://github.com/serde-rs/json) | `1.0.137` | `1.0.139` |
+| [chrono](https://github.com/chronotope/chrono) | `0.4.38` | `0.4.40` |
+| [tracing](https://github.com/tokio-rs/tracing) | `0.1.40` | `0.1.41` |
+| [async-trait](https://github.com/dtolnay/async-trait) | `0.1.83` | `0.1.86` |
+| [twilight-model](https://github.com/twilight-rs/twilight) | `0.15.4` | `0.16.0` |
+| [twilight-http](https://github.com/twilight-rs/twilight) | `0.15.4` | `0.16.0` |
+| [twilight-cache-inmemory](https://github.com/twilight-rs/twilight) | `0.15.4` | `0.16.0` |
+
+
+
+Updates `tokio` from 1.41.0 to 1.43.0
+- [Release notes](https://github.com/tokio-rs/tokio/releases)
+- [Commits](https://github.com/tokio-rs/tokio/compare/tokio-1.41.0...tokio-1.43.0)
+
+Updates `tracing-subscriber` from 0.3.18 to 0.3.19
+- [Release notes](https://github.com/tokio-rs/tracing/releases)
+- [Commits](https://github.com/tokio-rs/tracing/compare/tracing-subscriber-0.3.18...tracing-subscriber-0.3.19)
+
+Updates `anyhow` from 1.0.90 to 1.0.96
+- [Release notes](https://github.com/dtolnay/anyhow/releases)
+- [Commits](https://github.com/dtolnay/anyhow/compare/1.0.90...1.0.96)
+
+Updates `reqwest` from 0.12.8 to 0.12.12
+- [Release notes](https://github.com/seanmonstar/reqwest/releases)
+- [Changelog](https://github.com/seanmonstar/reqwest/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/seanmonstar/reqwest/compare/v0.12.8...v0.12.12)
+
+Updates `log` from 0.4.22 to 0.4.26
+- [Release notes](https://github.com/rust-lang/log/releases)
+- [Changelog](https://github.com/rust-lang/log/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/rust-lang/log/compare/0.4.22...0.4.26)
+
+Updates `serde` from 1.0.212 to 1.0.218
+- [Release notes](https://github.com/serde-rs/serde/releases)
+- [Commits](https://github.com/serde-rs/serde/compare/v1.0.212...v1.0.218)
+
+Updates `serde_json` from 1.0.137 to 1.0.139
+- [Release notes](https://github.com/serde-rs/json/releases)
+- [Commits](https://github.com/serde-rs/json/compare/v1.0.137...v1.0.139)
+
+Updates `chrono` from 0.4.38 to 0.4.40
+- [Release notes](https://github.com/chronotope/chrono/releases)
+- [Changelog](https://github.com/chronotope/chrono/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/chronotope/chrono/compare/v0.4.38...v0.4.40)
+
+Updates `tracing` from 0.1.40 to 0.1.41
+- [Release notes](https://github.com/tokio-rs/tracing/releases)
+- [Commits](https://github.com/tokio-rs/tracing/compare/tracing-0.1.40...tracing-0.1.41)
+
+Updates `async-trait` from 0.1.83 to 0.1.86
+- [Release notes](https://github.com/dtolnay/async-trait/releases)
+- [Commits](https://github.com/dtolnay/async-trait/compare/0.1.83...0.1.86)
+
+Updates `twilight-model` from 0.15.4 to 0.16.0
+- [Release notes](https://github.com/twilight-rs/twilight/releases)
+- [Changelog](https://github.com/twilight-rs/twilight/blob/main/release.toml)
+- [Commits](https://github.com/twilight-rs/twilight/compare/twilight-model-0.15.4...twilight-model-0.16.0)
+
+Updates `twilight-http` from 0.15.4 to 0.16.0
+- [Release notes](https://github.com/twilight-rs/twilight/releases)
+- [Changelog](https://github.com/twilight-rs/twilight/blob/main/release.toml)
+- [Commits](https://github.com/twilight-rs/twilight/compare/twilight-http-0.15.4...twilight-http-0.16.0)
+
+Updates `twilight-cache-inmemory` from 0.15.4 to 0.16.0
+- [Release notes](https://github.com/twilight-rs/twilight/releases)
+- [Changelog](https://github.com/twilight-rs/twilight/blob/main/release.toml)
+- [Commits](https://github.com/twilight-rs/twilight/compare/twilight-cache-inmemory-0.15.4...twilight-cache-inmemory-0.16.0)
+
+---
+updated-dependencies:
+- dependency-name: tokio
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: cargo-deps
+- dependency-name: tracing-subscriber
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: cargo-deps
+- dependency-name: anyhow
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: cargo-deps
+- dependency-name: reqwest
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: cargo-deps
+- dependency-name: log
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: cargo-deps
+- dependency-name: serde
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: cargo-deps
+- dependency-name: serde_json
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: cargo-deps
+- dependency-name: chrono
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: cargo-deps
+- dependency-name: tracing
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: cargo-deps
+- dependency-name: async-trait
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: cargo-deps
+- dependency-name: twilight-model
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: cargo-deps
+- dependency-name: twilight-http
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: cargo-deps
+- dependency-name: twilight-cache-inmemory
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: cargo-deps
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">Color-Chan/Color-Chan</span>
                                     </div>
@@ -2525,256 +2687,12 @@ Fluent in C#. I love to make discord bots. Working on way to many projects like 
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 57 commits in
-                                        <span class="repo">BrammyS/Discord-Bot-Template</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3777157</div>
-                                        <div class="message">Merge pull request #172 from BrammyS/dependabot/nuget/dev/nunit-4.2.0
-
-Build(deps): Bump nunit from 4.1.0 to 4.2.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d718c62</div>
-                                        <div class="message">Build(deps): Bump nunit from 4.1.0 to 4.2.0
-
-Bumps [nunit](https://github.com/nunit/nunit) from 4.1.0 to 4.2.0.
-- [Release notes](https://github.com/nunit/nunit/releases)
-- [Changelog](https://github.com/nunit/nunit/blob/main/CHANGES.md)
-- [Commits](https://github.com/nunit/nunit/compare/4.1.0...4.2.0)
-
----
-updated-dependencies:
-- dependency-name: nunit
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90090be</div>
-                                        <div class="message">Merge pull request #171 from BrammyS/dependabot/nuget/dev/Serilog.Sinks.Mongodb.TimeSeries-5.0.8
-
-Build(deps): Bump Serilog.Sinks.Mongodb.TimeSeries from 5.0.7 to 5.0.8</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1731a32</div>
-                                        <div class="message">Merge pull request #170 from BrammyS/dependabot/nuget/dev/Microsoft.NET.Test.Sdk-17.11.0
-
-Build(deps): Bump Microsoft.NET.Test.Sdk from 17.10.0 to 17.11.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#97ca14d</div>
-                                        <div class="message">Build(deps): Bump Serilog.Sinks.Mongodb.TimeSeries from 5.0.7 to 5.0.8
-
-Bumps [Serilog.Sinks.Mongodb.TimeSeries](https://github.com/brammys/Serilog.Sinks.Mongodb.TimeSeries) from 5.0.7 to 5.0.8.
-- [Release notes](https://github.com/brammys/Serilog.Sinks.Mongodb.TimeSeries/releases)
-- [Commits](https://github.com/brammys/Serilog.Sinks.Mongodb.TimeSeries/compare/v5.0.7...v5.0.8)
-
----
-updated-dependencies:
-- dependency-name: Serilog.Sinks.Mongodb.TimeSeries
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba51263</div>
-                                        <div class="message">Build(deps): Bump Microsoft.NET.Test.Sdk from 17.10.0 to 17.11.0
-
-Bumps [Microsoft.NET.Test.Sdk](https://github.com/microsoft/vstest) from 17.10.0 to 17.11.0.
-- [Release notes](https://github.com/microsoft/vstest/releases)
-- [Changelog](https://github.com/microsoft/vstest/blob/main/docs/releases.md)
-- [Commits](https://github.com/microsoft/vstest/compare/v17.10.0...v17.11.0)
-
----
-updated-dependencies:
-- dependency-name: Microsoft.NET.Test.Sdk
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#00c39ce</div>
-                                        <div class="message">Merge pull request #169 from BrammyS/dependabot/nuget/dev/MongoDB.Driver-2.28.0
-
-Build(deps): Bump MongoDB.Driver from 2.19.0 to 2.28.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3de6691</div>
-                                        <div class="message">Build(deps): Bump MongoDB.Driver from 2.19.0 to 2.28.0
-
-Bumps MongoDB.Driver from 2.19.0 to 2.28.0.
-
----
-updated-dependencies:
-- dependency-name: MongoDB.Driver
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f282b24</div>
-                                        <div class="message">Merge pull request #168 from BrammyS/dependabot/nuget/dev/Serilog-4.0.1
-
-Build(deps): Bump Serilog from 4.0.0 to 4.0.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#13564bf</div>
-                                        <div class="message">Build(deps): Bump Serilog from 4.0.0 to 4.0.1
-
-Bumps Serilog from 4.0.0 to 4.0.1.
-
----
-updated-dependencies:
-- dependency-name: Serilog
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#91d5afb</div>
-                                        <div class="message">Merge pull request #167 from BrammyS/dependabot/nuget/dev/Serilog.AspNetCore-8.0.2
-
-Build(deps): Bump Serilog.AspNetCore from 8.0.1 to 8.0.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eeb0f5b</div>
-                                        <div class="message">Merge pull request #164 from BrammyS/dependabot/nuget/dev/MongoDB.Driver-2.28.0
-
-Build(deps): Bump MongoDB.Driver from 2.27.0 to 2.28.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4f7fa9</div>
-                                        <div class="message">Build(deps): Bump Serilog.AspNetCore from 8.0.1 to 8.0.2
-
-Bumps [Serilog.AspNetCore](https://github.com/serilog/serilog-aspnetcore) from 8.0.1 to 8.0.2.
-- [Release notes](https://github.com/serilog/serilog-aspnetcore/releases)
-- [Commits](https://github.com/serilog/serilog-aspnetcore/compare/v8.0.1...v8.0.2)
-
----
-updated-dependencies:
-- dependency-name: Serilog.AspNetCore
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9aecf14</div>
-                                        <div class="message">Build(deps): Bump MongoDB.Driver from 2.27.0 to 2.28.0
-
-Bumps [MongoDB.Driver](https://github.com/mongodb/mongo-csharp-driver) from 2.27.0 to 2.28.0.
-- [Release notes](https://github.com/mongodb/mongo-csharp-driver/releases)
-- [Commits](https://github.com/mongodb/mongo-csharp-driver/compare/v2.27.0...v2.28.0)
-
----
-updated-dependencies:
-- dependency-name: MongoDB.Driver
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#efd83ad</div>
-                                        <div class="message">Merge pull request #166 from BrammyS/dependabot/nuget/dev/NUnit3TestAdapter-4.6.0
-
-Build(deps): Bump NUnit3TestAdapter from 4.5.0 to 4.6.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4a3b2c</div>
-                                        <div class="message">Merge pull request #165 from BrammyS/dependabot/nuget/dev/Serilog-4.0.1
-
-Build(deps): Bump Serilog from 4.0.0 to 4.0.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#827d844</div>
-                                        <div class="message">Build(deps): Bump NUnit3TestAdapter from 4.5.0 to 4.6.0
-
-Bumps [NUnit3TestAdapter](https://github.com/nunit/nunit3-vs-adapter) from 4.5.0 to 4.6.0.
-- [Release notes](https://github.com/nunit/nunit3-vs-adapter/releases)
-- [Commits](https://github.com/nunit/nunit3-vs-adapter/compare/V4.5.0...V4.6.0)
-
----
-updated-dependencies:
-- dependency-name: NUnit3TestAdapter
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f27a32</div>
-                                        <div class="message">Build(deps): Bump Serilog from 4.0.0 to 4.0.1
-
-Bumps [Serilog](https://github.com/serilog/serilog) from 4.0.0 to 4.0.1.
-- [Release notes](https://github.com/serilog/serilog/releases)
-- [Commits](https://github.com/serilog/serilog/compare/v4.0.0...v4.0.1)
-
----
-updated-dependencies:
-- dependency-name: Serilog
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e06108d</div>
-                                        <div class="message">Merge pull request #163 from BrammyS/dependabot/nuget/dev/MongoDB.Driver-2.27.0
-
-Build(deps): Bump MongoDB.Driver from 2.26.0 to 2.27.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0f01ccb</div>
-                                        <div class="message">Build(deps): Bump MongoDB.Driver from 2.26.0 to 2.27.0
-
-Bumps [MongoDB.Driver](https://github.com/mongodb/mongo-csharp-driver) from 2.26.0 to 2.27.0.
-- [Release notes](https://github.com/mongodb/mongo-csharp-driver/releases)
-- [Commits](https://github.com/mongodb/mongo-csharp-driver/compare/v2.26.0...v2.27.0)
-
----
-updated-dependencies:
-- dependency-name: MongoDB.Driver
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Mar 2025, 20:04:20 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Mar 2025, 21:04:57 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
