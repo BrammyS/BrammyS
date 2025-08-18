@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1518" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1468" class="">
     <defs>
         <style/>
     </defs>
@@ -191,7 +191,7 @@ Fluent in C#. Working on way to many projects like always.</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    145k added, 60.3k removed
+                                    356k added, 164k removed
                                 </div>
                             </section>
                             <section>
@@ -2436,6 +2436,138 @@ Fluent in C#. Working on way to many projects like always.</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/nuget/src/Bot.Discord/dev/nuget-deps-db1dafd058</span>
+                                        in
+                                        <span class="repo">BrammyS/Discord-Bot-Template</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">BrammyS/Discord-Bot-Template</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#05c1802</div>
+                                        <div class="message">Merge pull request #216 from BrammyS/dependabot/nuget/src/Bot.Discord/dev/nuget-deps-db1dafd058
+
+Bump Microsoft.Extensions.Configuration.Abstractions and Microsoft.Extensions.DependencyInjection</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4866580</div>
+                                        <div class="message">Bump Microsoft.Extensions.Configuration.Abstractions and Microsoft.Extensions.DependencyInjection
+
+Bumps Microsoft.Extensions.Configuration.Abstractions to 9.0.8
+Bumps Microsoft.Extensions.DependencyInjection to 9.0.8
+
+---
+updated-dependencies:
+- dependency-name: Microsoft.Extensions.Configuration.Abstractions
+  dependency-version: 9.0.8
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: nuget-deps
+- dependency-name: Microsoft.Extensions.Configuration.Abstractions
+  dependency-version: 9.0.8
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: nuget-deps
+- dependency-name: Microsoft.Extensions.DependencyInjection
+  dependency-version: 9.0.8
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: nuget-deps
+- dependency-name: Microsoft.Extensions.DependencyInjection
+  dependency-version: 9.0.8
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: nuget-deps
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/nuget/tests/Bot.Discord.Tests/dev/nuget-deps-48187902c7</span>
+                                        in
+                                        <span class="repo">BrammyS/Discord-Bot-Template</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">BrammyS/Discord-Bot-Template</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6f29ad9</div>
+                                        <div class="message">Merge pull request #217 from BrammyS/dependabot/nuget/tests/Bot.Discord.Tests/dev/nuget-deps-48187902c7
+
+Bump NUnit and NUnit3TestAdapter</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0179308</div>
+                                        <div class="message">Bump NUnit and NUnit3TestAdapter
+
+Bumps NUnit from 4.3.2 to 4.4.0
+Bumps NUnit3TestAdapter from 5.0.0 to 5.1.0
+
+---
+updated-dependencies:
+- dependency-name: NUnit
+  dependency-version: 4.4.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: nuget-deps
+- dependency-name: NUnit3TestAdapter
+  dependency-version: 5.1.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: nuget-deps
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -2477,264 +2609,12 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Color-Chan/Color-Chan.Discord</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5c3aeb2</div>
-                                        <div class="message">Merge pull request #294 from Color-Chan/dependabot/nuget/samples/ComponentsV2/dev/nuget-deps-c69efa80ba
-
-Bump the nuget-deps group with 8 updates</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7501716</div>
-                                        <div class="message">Bump the nuget-deps group with 8 updates
-
-Bumps Microsoft.AspNetCore.OpenApi from 8.0.18 to 8.0.19
-Bumps Microsoft.Extensions.Caching.Memory from 9.0.7 to 9.0.8
-Bumps Microsoft.Extensions.Caching.StackExchangeRedis from 9.0.7 to 9.0.8
-Bumps Microsoft.Extensions.Http.Polly from 9.0.7 to 9.0.8
-Bumps Microsoft.Extensions.Logging.Console from 9.0.7 to 9.0.8
-Bumps Microsoft.Extensions.Options to 9.0.8
-Bumps NUnit to 4.4.0
-Bumps NUnit3TestAdapter to 5.1.0
-
----
-updated-dependencies:
-- dependency-name: Microsoft.AspNetCore.OpenApi
-  dependency-version: 8.0.19
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-  dependency-group: nuget-deps
-- dependency-name: Microsoft.Extensions.Caching.Memory
-  dependency-version: 9.0.8
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-  dependency-group: nuget-deps
-- dependency-name: Microsoft.Extensions.Options
-  dependency-version: 9.0.8
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-  dependency-group: nuget-deps
-- dependency-name: Microsoft.Extensions.Caching.StackExchangeRedis
-  dependency-version: 9.0.8
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-  dependency-group: nuget-deps
-- dependency-name: Microsoft.Extensions.Http.Polly
-  dependency-version: 9.0.8
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-  dependency-group: nuget-deps
-- dependency-name: Microsoft.Extensions.Logging.Console
-  dependency-version: 9.0.8
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-  dependency-group: nuget-deps
-- dependency-name: Microsoft.Extensions.Options
-  dependency-version: 9.0.8
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-  dependency-group: nuget-deps
-- dependency-name: Microsoft.Extensions.Options
-  dependency-version: 9.0.8
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-  dependency-group: nuget-deps
-- dependency-name: Microsoft.Extensions.Options
-  dependency-version: 9.0.8
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-  dependency-group: nuget-deps
-- dependency-name: Microsoft.Extensions.Options
-  dependency-version: 9.0.8
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-  dependency-group: nuget-deps
-- dependency-name: NUnit
-  dependency-version: 4.4.0
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: nuget-deps
-- dependency-name: NUnit
-  dependency-version: 4.4.0
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: nuget-deps
-- dependency-name: NUnit
-  dependency-version: 4.4.0
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: nuget-deps
-- dependency-name: NUnit
-  dependency-version: 4.4.0
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: nuget-deps
-- dependency-name: NUnit
-  dependency-version: 4.4.0
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: nuget-deps
-- dependency-name: NUnit
-  dependency-version: 4.4.0
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: nuget-deps
-- dependency-name: NUnit3TestAdapter
-  dependency-version: 5.1.0
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: nuget-deps
-- dependency-name: NUnit3TestAdapter
-  dependency-version: 5.1.0
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: nuget-deps
-- dependency-name: NUnit3TestAdapter
-  dependency-version: 5.1.0
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: nuget-deps
-- dependency-name: NUnit3TestAdapter
-  dependency-version: 5.1.0
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: nuget-deps
-- dependency-name: NUnit3TestAdapter
-  dependency-version: 5.1.0
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-  dependency-group: nuget-deps
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">BrammyS/Discord-Bot-Template</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#380c88a</div>
-                                        <div class="message">Merge pull request #214 from BrammyS/dependabot/github_actions/actions-deps-a331d3ec2d
-
-Build(deps): Bump actions/checkout from 4 to 5 in the actions-deps group</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#32bac32</div>
-                                        <div class="message">Build(deps): Bump actions/checkout from 4 to 5 in the actions-deps group
-
-Bumps the actions-deps group with 1 update: [actions/checkout](https://github.com/actions/checkout).
-
-
-Updates `actions/checkout` from 4 to 5
-- [Release notes](https://github.com/actions/checkout/releases)
-- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/actions/checkout/compare/v4...v5)
-
----
-updated-dependencies:
-- dependency-name: actions/checkout
-  dependency-version: '5'
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-  dependency-group: actions-deps
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/github_actions/actions-deps-a331d3ec2d</span>
-                                        in
-                                        <span class="repo">BrammyS/Discord-Bot-Template</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">BrammyS/GalleryPixels</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b457a65</div>
-                                        <div class="message">Merge pull request #187 from BrammyS/dependabot/github_actions/main/actions-deps-a331d3ec2d
-
-Build(deps): Bump actions/checkout from 4 to 5 in the actions-deps group</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0548225</div>
-                                        <div class="message">Build(deps): Bump actions/checkout from 4 to 5 in the actions-deps group
-
-Bumps the actions-deps group with 1 update: [actions/checkout](https://github.com/actions/checkout).
-
-
-Updates `actions/checkout` from 4 to 5
-- [Release notes](https://github.com/actions/checkout/releases)
-- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/actions/checkout/compare/v4...v5)
-
----
-updated-dependencies:
-- dependency-name: actions/checkout
-  dependency-version: '5'
-  dependency-type: direct:production
-  update-type: version-update:semver-major
-  dependency-group: actions-deps
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Aug 2025, 18:06:16 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Aug 2025, 19:06:25 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
