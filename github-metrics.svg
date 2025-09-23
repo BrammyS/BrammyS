@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1432" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1781" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -36,7 +36,7 @@
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -83,7 +83,7 @@ Fluent in C#. Working on way to many projects like always.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            11794 Commits
+                            11811 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -95,7 +95,7 @@ Fluent in C#. Working on way to many projects like always.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            85 Pull requests opened
+                            86 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -191,7 +191,7 @@ Fluent in C#. Working on way to many projects like always.</div>
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.34m added, 594k removed
+                                    683k added, 286k removed
                                 </div>
                             </section>
                             <section>
@@ -293,13 +293,13 @@ Fluent in C#. Working on way to many projects like always.</div>
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="1.3126491646778042" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="1.3126491646778042" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="1.3126491646778042" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="1.3126491646778042" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="1.3126491646778042" y="0" width="19.164677804295945" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="20.47732696897375" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="20.47732696897375" y="0" width="199.52267303102624" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="1.0501193317422435" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="1.0501193317422435" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="1.0501193317422435" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="1.0501193317422435" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="1.0501193317422435" y="0" width="19.164677804295945" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="20.21479713603819" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="20.21479713603819" y="0" width="199.7852028639618" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -307,13 +307,13 @@ Fluent in C#. Working on way to many projects like always.</div>
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#238636" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">5 <small>open</small></span>
+                                <span class="no-wrap">4 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">760 <small>merged</small></span>
+                                <span class="no-wrap">761 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -413,12 +413,12 @@ Fluent in C#. Working on way to many projects like always.</div>
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 96 commits)</small>
+                    <small class="h-details">(computed from last 101 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 60.0 characters per line of code written</li>
+                        <li>Has approximately 59.5 characters per line of code written</li>
                         <li>Mostly pushes code around 13:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -463,7 +463,7 @@ Fluent in C#. Working on way to many projects like always.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~3
+                            Average per day at ~3.03
                         </div>
                     </section>
                 </div>
@@ -1974,10 +1974,10 @@ Fluent in C#. Working on way to many projects like always.</div>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.107142857142857 0,1.1071428571428572 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1071428571428572 1.7,2.107142857142857 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.785714285714286)">
+                            <g transform="translate(-3.4, 7.678571428571429)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2142857142857144 0,1.2142857142857142 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2142857142857142 1.7,2.2142857142857144 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.321428571428571 0,1.3214285714285714 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3214285714285714 1.7,2.321428571428571 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2011,10 +2011,10 @@ Fluent in C#. Working on way to many projects like always.</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.785714285714286)">
+                            <g transform="translate(-3.4, 7.678571428571429)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2142857142857144 0,1.2142857142857142 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2142857142857142 1.7,2.2142857142857144 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.321428571428571 0,1.3214285714285714 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3214285714285714 1.7,2.321428571428571 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2048,10 +2048,10 @@ Fluent in C#. Working on way to many projects like always.</div>
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.892857142857142)">
+                            <g transform="translate(-3.4, 7.785714285714286)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.107142857142857 0,1.1071428571428572 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1071428571428572 1.7,2.107142857142857 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2142857142857144 0,1.2142857142857142 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2142857142857142 1.7,2.2142857142857144 z"/>
                             </g>
                             <g transform="translate(-5.1, 7.5)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2085,10 +2085,10 @@ Fluent in C#. Working on way to many projects like always.</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.678571428571429)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.321428571428571 0,1.3214285714285714 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3214285714285714 1.7,2.321428571428571 z"/>
+                            <g transform="translate(-3.4, 7.571428571428571)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2117,10 +2117,10 @@ Fluent in C#. Working on way to many projects like always.</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 7)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-1.7, 6.892857142857142)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.107142857142857 0,1.1071428571428572 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1071428571428572 1.7,2.107142857142857 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.892857142857142)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2159,10 +2159,10 @@ Fluent in C#. Working on way to many projects like always.</div>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-3.4, 7.892857142857142)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.107142857142857 0,1.1071428571428572 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1071428571428572 1.7,2.107142857142857 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2196,10 +2196,10 @@ Fluent in C#. Working on way to many projects like always.</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.464285714285714)">
+                            <g transform="translate(-3.4, 7.357142857142858)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5357142857142856 0,1.5357142857142856 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5357142857142856 1.7,2.5357142857142856 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.642857142857143 0,1.6428571428571428 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6428571428571428 1.7,2.642857142857143 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.357142857142858)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2238,10 +2238,10 @@ Fluent in C#. Working on way to many projects like always.</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-5.1, 8.464285714285715)">
+                            <g transform="translate(-5.1, 8.357142857142858)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5357142857142856 0,1.5357142857142856 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5357142857142856 1.7,2.5357142857142856 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.642857142857143 0,1.6428571428571428 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6428571428571428 1.7,2.642857142857143 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.785714285714285)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2285,10 +2285,10 @@ Fluent in C#. Working on way to many projects like always.</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-8.5, 9.285714285714285)">
+                            <g transform="translate(-8.5, 9.178571428571429)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7142857142857144 0,2.7142857142857144 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7142857142857144 1.7,3.7142857142857144 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.821428571428571 0,2.821428571428571 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.821428571428571 1.7,3.821428571428571 z"/>
                             </g>
                             <g transform="translate(-10.2, 6.428571428571429)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2339,10 +2339,10 @@ Fluent in C#. Working on way to many projects like always.</div>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 6.035714285714286)">
+                            <g transform="translate(-1.7, 5.928571428571429)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9642857142857144 0,1.9642857142857144 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9642857142857144 1.7,2.9642857142857144 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.071428571428571 0,2.071428571428571 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.071428571428571 1.7,3.071428571428571 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.892857142857142)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2381,10 +2381,10 @@ Fluent in C#. Working on way to many projects like always.</div>
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.107142857142857 0,1.1071428571428572 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1071428571428572 1.7,2.107142857142857 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.785714285714286)">
+                            <g transform="translate(-3.4, 7.678571428571429)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2142857142857144 0,1.2142857142857142 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2142857142857142 1.7,2.2142857142857144 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.321428571428571 0,1.3214285714285714 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3214285714285714 1.7,2.321428571428571 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2438,6 +2438,46 @@ Fluent in C#. Working on way to many projects like always.</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">BrammyS/Discord-Bot-Template</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4166c50</div>
+                                        <div class="message">Merge branch 'main' into dev</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 6 commits in
+                                        <span class="repo">Color-Chan/Color-Chan.Discord</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2781bc3</div>
+                                        <div class="message">Merge branch 'main' into dev</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">Color-Chan/Color-Chan.Gateway</span>
                                     </div>
@@ -2445,72 +2485,8 @@ Fluent in C#. Working on way to many projects like always.</div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#10dc08e</div>
-                                        <div class="message">Merge pull request #311 from Color-Chan/dependabot/cargo/dev/cargo-deps-a948b70dc1
-
-Build(deps): bump the cargo-deps group across 1 directory with 2 updates</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fb9e132</div>
-                                        <div class="message">Build(deps): bump the cargo-deps group across 1 directory with 2 updates
-
-Bumps the cargo-deps group with 2 updates in the / directory: [anyhow](https://github.com/dtolnay/anyhow) and [serde](https://github.com/serde-rs/serde).
-
-
-Updates `anyhow` from 1.0.99 to 1.0.100
-- [Release notes](https://github.com/dtolnay/anyhow/releases)
-- [Commits](https://github.com/dtolnay/anyhow/compare/1.0.99...1.0.100)
-
-Updates `serde` from 1.0.224 to 1.0.225
-- [Release notes](https://github.com/serde-rs/serde/releases)
-- [Commits](https://github.com/serde-rs/serde/compare/v1.0.224...v1.0.225)
-
----
-updated-dependencies:
-- dependency-name: anyhow
-  dependency-version: 1.0.100
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-  dependency-group: cargo-deps
-- dependency-name: serde
-  dependency-version: 1.0.225
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-  dependency-group: cargo-deps
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Released
-                                        <span class="bold">v1.1.7 - Dependency updates</span>
-                                        of
-                                        <span class="repo">BrammyS/trx-tools</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">v1.1.7</span>
-                                        in
-                                        <span class="repo">BrammyS/trx-tools</span>
+                                        <div class="sha">#0f41795</div>
+                                        <div class="message">Merge branch 'main' into dev</div>
                                     </div>
                                 </div>
                             </section>
@@ -2522,59 +2498,794 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">BrammyS/trx-tools</span>
+                                        Pushed 6 commits in
+                                        <span class="repo">Esendam-Software/Esendam-Software-website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9b04ce1</div>
+                                        <div class="message">Merge branch 'main' into dev</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 25 commits in
+                                        <span class="repo">Esendam-Software/Esendam-Software-website</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3b062ab</div>
-                                        <div class="message">Merge pull request #30 from BrammyS/dependabot/github_actions/actions-deps-5e9711c773
+                                        <div class="sha">#9db7df6</div>
+                                        <div class="message">Merge pull request #542 from Esendam-Software/dependabot/npm_and_yarn/dev/npm-deps-768ed9024b
 
-Build(deps): Bump actions/setup-dotnet from 4 to 5 in the actions-deps group</div>
+Bump the npm-deps group with 10 updates</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4640eac</div>
-                                        <div class="message">Build(deps): Bump actions/setup-dotnet in the actions-deps group
+                                        <div class="sha">#7286a32</div>
+                                        <div class="message">Bump the npm-deps group with 10 updates
 
-Bumps the actions-deps group with 1 update: [actions/setup-dotnet](https://github.com/actions/setup-dotnet).
+Bumps the npm-deps group with 10 updates:
+
+| Package | From | To |
+| --- | --- | --- |
+| [@tailwindcss/postcss](https://github.com/tailwindlabs/tailwindcss/tree/HEAD/packages/@tailwindcss-postcss) | `4.1.12` | `4.1.13` |
+| [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) | `24.3.0` | `24.3.1` |
+| [@types/react](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/react) | `19.1.11` | `19.1.12` |
+| [@types/react-dom](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/react-dom) | `19.1.7` | `19.1.9` |
+| [eslint-config-next](https://github.com/vercel/next.js/tree/HEAD/packages/eslint-config-next) | `15.5.0` | `15.5.2` |
+| [next](https://github.com/vercel/next.js) | `15.5.0` | `15.5.2` |
+| [tailwindcss](https://github.com/tailwindlabs/tailwindcss/tree/HEAD/packages/tailwindcss) | `4.1.12` | `4.1.13` |
+| [@cloudflare/next-on-pages](https://github.com/cloudflare/next-on-pages) | `1.13.14` | `1.13.16` |
+| [eslint-plugin-next-on-pages](https://github.com/cloudflare/next-on-pages/tree/HEAD/packages/eslint-plugin-next-on-pages) | `1.13.14` | `1.13.16` |
+| [vercel](https://github.com/vercel/vercel/tree/HEAD/packages/cli) | `46.0.2` | `47.0.5` |
 
 
-Updates `actions/setup-dotnet` from 4 to 5
-- [Release notes](https://github.com/actions/setup-dotnet/releases)
-- [Commits](https://github.com/actions/setup-dotnet/compare/v4...v5)
+Updates `@tailwindcss/postcss` from 4.1.12 to 4.1.13
+- [Release notes](https://github.com/tailwindlabs/tailwindcss/releases)
+- [Changelog](https://github.com/tailwindlabs/tailwindcss/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/tailwindlabs/tailwindcss/commits/v4.1.13/packages/@tailwindcss-postcss)
+
+Updates `@types/node` from 24.3.0 to 24.3.1
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+
+Updates `@types/react` from 19.1.11 to 19.1.12
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/react)
+
+Updates `@types/react-dom` from 19.1.7 to 19.1.9
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/react-dom)
+
+Updates `eslint-config-next` from 15.5.0 to 15.5.2
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/commits/v15.5.2/packages/eslint-config-next)
+
+Updates `next` from 15.5.0 to 15.5.2
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/compare/v15.5.0...v15.5.2)
+
+Updates `tailwindcss` from 4.1.12 to 4.1.13
+- [Release notes](https://github.com/tailwindlabs/tailwindcss/releases)
+- [Changelog](https://github.com/tailwindlabs/tailwindcss/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/tailwindlabs/tailwindcss/commits/v4.1.13/packages/tailwindcss)
+
+Updates `@cloudflare/next-on-pages` from 1.13.14 to 1.13.16
+- [Release notes](https://github.com/cloudflare/next-on-pages/releases)
+- [Commits](https://github.com/cloudflare/next-on-pages/compare/@cloudflare/next-on-pages@1.13.14...@cloudflare/next-on-pages@1.13.16)
+
+Updates `eslint-plugin-next-on-pages` from 1.13.14 to 1.13.16
+- [Release notes](https://github.com/cloudflare/next-on-pages/releases)
+- [Changelog](https://github.com/cloudflare/next-on-pages/blob/main/packages/eslint-plugin-next-on-pages/CHANGELOG.md)
+- [Commits](https://github.com/cloudflare/next-on-pages/commits/eslint-plugin-next-on-pages@1.13.16/packages/eslint-plugin-next-on-pages)
+
+Updates `vercel` from 46.0.2 to 47.0.5
+- [Release notes](https://github.com/vercel/vercel/releases)
+- [Changelog](https://github.com/vercel/vercel/blob/main/packages/cli/CHANGELOG.md)
+- [Commits](https://github.com/vercel/vercel/commits/vercel@47.0.5/packages/cli)
 
 ---
 updated-dependencies:
-- dependency-name: actions/setup-dotnet
-  dependency-version: '5'
+- dependency-name: "@tailwindcss/postcss"
+  dependency-version: 4.1.13
   dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: "@types/node"
+  dependency-version: 24.3.1
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: "@types/react"
+  dependency-version: 19.1.12
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: "@types/react-dom"
+  dependency-version: 19.1.9
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: eslint-config-next
+  dependency-version: 15.5.2
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: next
+  dependency-version: 15.5.2
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: tailwindcss
+  dependency-version: 4.1.13
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: "@cloudflare/next-on-pages"
+  dependency-version: 1.13.16
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: eslint-plugin-next-on-pages
+  dependency-version: 1.13.16
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: vercel
+  dependency-version: 47.0.5
+  dependency-type: direct:development
   update-type: version-update:semver-major
-  dependency-group: actions-deps
+  dependency-group: npm-deps
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Color-Chan/Color-Chan.Cluster</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d09a5c9</div>
-                                        <div class="message">Removed fixed node</div>
+                                        <div class="sha">#322fd33</div>
+                                        <div class="message">Merge pull request #541 from Esendam-Software/dependabot/npm_and_yarn/dev/npm-deps-a3dde67868
+
+Bump the npm-deps group with 5 updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e58beb4</div>
+                                        <div class="message">Bump the npm-deps group with 5 updates
+
+Bumps the npm-deps group with 5 updates:
+
+| Package | From | To |
+| --- | --- | --- |
+| [@types/react](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/react) | `19.1.10` | `19.1.11` |
+| [eslint-config-next](https://github.com/vercel/next.js/tree/HEAD/packages/eslint-config-next) | `15.4.6` | `15.5.0` |
+| [next](https://github.com/vercel/next.js) | `15.4.6` | `15.5.0` |
+| [@cloudflare/next-on-pages](https://github.com/cloudflare/next-on-pages) | `1.13.13` | `1.13.14` |
+| [vercel](https://github.com/vercel/vercel/tree/HEAD/packages/cli) | `46.0.1` | `46.0.2` |
+
+
+Updates `@types/react` from 19.1.10 to 19.1.11
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/react)
+
+Updates `eslint-config-next` from 15.4.6 to 15.5.0
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/commits/v15.5.0/packages/eslint-config-next)
+
+Updates `next` from 15.4.6 to 15.5.0
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/compare/v15.4.6...v15.5.0)
+
+Updates `@cloudflare/next-on-pages` from 1.13.13 to 1.13.14
+- [Release notes](https://github.com/cloudflare/next-on-pages/releases)
+- [Commits](https://github.com/cloudflare/next-on-pages/compare/@cloudflare/next-on-pages@1.13.13...@cloudflare/next-on-pages@1.13.14)
+
+Updates `vercel` from 46.0.1 to 46.0.2
+- [Release notes](https://github.com/vercel/vercel/releases)
+- [Changelog](https://github.com/vercel/vercel/blob/main/packages/cli/CHANGELOG.md)
+- [Commits](https://github.com/vercel/vercel/commits/vercel@46.0.2/packages/cli)
+
+---
+updated-dependencies:
+- dependency-name: "@types/react"
+  dependency-version: 19.1.11
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: eslint-config-next
+  dependency-version: 15.5.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: npm-deps
+- dependency-name: next
+  dependency-version: 15.5.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: npm-deps
+- dependency-name: "@cloudflare/next-on-pages"
+  dependency-version: 1.13.14
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: vercel
+  dependency-version: 46.0.2
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75234a4</div>
+                                        <div class="message">Merge pull request #540 from Esendam-Software/dependabot/npm_and_yarn/dev/npm-deps-29a1f8f944
+
+Bump the npm-deps group with 6 updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#28cea01</div>
+                                        <div class="message">Bump the npm-deps group with 6 updates
+
+Bumps the npm-deps group with 6 updates:
+
+| Package | From | To |
+| --- | --- | --- |
+| [@tailwindcss/postcss](https://github.com/tailwindlabs/tailwindcss/tree/HEAD/packages/@tailwindcss-postcss) | `4.1.11` | `4.1.12` |
+| [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) | `24.2.1` | `24.3.0` |
+| [@types/react](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/react) | `19.1.9` | `19.1.10` |
+| [tailwindcss](https://github.com/tailwindlabs/tailwindcss/tree/HEAD/packages/tailwindcss) | `4.1.11` | `4.1.12` |
+| [eslint-plugin-next-on-pages](https://github.com/cloudflare/next-on-pages/tree/HEAD/packages/eslint-plugin-next-on-pages) | `1.13.13` | `1.13.14` |
+| [vercel](https://github.com/vercel/vercel/tree/HEAD/packages/cli) | `44.7.3` | `46.0.1` |
+
+
+Updates `@tailwindcss/postcss` from 4.1.11 to 4.1.12
+- [Release notes](https://github.com/tailwindlabs/tailwindcss/releases)
+- [Changelog](https://github.com/tailwindlabs/tailwindcss/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/tailwindlabs/tailwindcss/commits/v4.1.12/packages/@tailwindcss-postcss)
+
+Updates `@types/node` from 24.2.1 to 24.3.0
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+
+Updates `@types/react` from 19.1.9 to 19.1.10
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/react)
+
+Updates `tailwindcss` from 4.1.11 to 4.1.12
+- [Release notes](https://github.com/tailwindlabs/tailwindcss/releases)
+- [Changelog](https://github.com/tailwindlabs/tailwindcss/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/tailwindlabs/tailwindcss/commits/v4.1.12/packages/tailwindcss)
+
+Updates `eslint-plugin-next-on-pages` from 1.13.13 to 1.13.14
+- [Release notes](https://github.com/cloudflare/next-on-pages/releases)
+- [Changelog](https://github.com/cloudflare/next-on-pages/blob/main/packages/eslint-plugin-next-on-pages/CHANGELOG.md)
+- [Commits](https://github.com/cloudflare/next-on-pages/commits/HEAD/packages/eslint-plugin-next-on-pages)
+
+Updates `vercel` from 44.7.3 to 46.0.1
+- [Release notes](https://github.com/vercel/vercel/releases)
+- [Changelog](https://github.com/vercel/vercel/blob/main/packages/cli/CHANGELOG.md)
+- [Commits](https://github.com/vercel/vercel/commits/vercel@46.0.1/packages/cli)
+
+---
+updated-dependencies:
+- dependency-name: "@tailwindcss/postcss"
+  dependency-version: 4.1.12
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: "@types/node"
+  dependency-version: 24.3.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: npm-deps
+- dependency-name: "@types/react"
+  dependency-version: 19.1.10
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: tailwindcss
+  dependency-version: 4.1.12
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: eslint-plugin-next-on-pages
+  dependency-version: 1.13.14
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: vercel
+  dependency-version: 46.0.1
+  dependency-type: direct:development
+  update-type: version-update:semver-major
+  dependency-group: npm-deps
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce64b4c</div>
+                                        <div class="message">Merge pull request #539 from Esendam-Software/dependabot/npm_and_yarn/dev/npm-deps-7e8751cbb9
+
+Bump the npm-deps group with 4 updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#745e02c</div>
+                                        <div class="message">Bump the npm-deps group with 4 updates
+
+Bumps the npm-deps group with 4 updates: [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node), [eslint-config-next](https://github.com/vercel/next.js/tree/HEAD/packages/eslint-config-next), [next](https://github.com/vercel/next.js) and [vercel](https://github.com/vercel/vercel/tree/HEAD/packages/cli).
+
+
+Updates `@types/node` from 24.2.0 to 24.2.1
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+
+Updates `eslint-config-next` from 15.4.5 to 15.4.6
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/commits/v15.4.6/packages/eslint-config-next)
+
+Updates `next` from 15.4.5 to 15.4.6
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/compare/v15.4.5...v15.4.6)
+
+Updates `vercel` from 44.7.0 to 44.7.3
+- [Release notes](https://github.com/vercel/vercel/releases)
+- [Changelog](https://github.com/vercel/vercel/blob/main/packages/cli/CHANGELOG.md)
+- [Commits](https://github.com/vercel/vercel/commits/vercel@44.7.3/packages/cli)
+
+---
+updated-dependencies:
+- dependency-name: "@types/node"
+  dependency-version: 24.2.1
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: eslint-config-next
+  dependency-version: 15.4.6
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: next
+  dependency-version: 15.4.6
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: vercel
+  dependency-version: 44.7.3
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#158571c</div>
+                                        <div class="message">Merge pull request #538 from Esendam-Software/dependabot/npm_and_yarn/dev/npm-deps-c1af714e64
+
+Bump the npm-deps group with 7 updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2771a8e</div>
+                                        <div class="message">Bump the npm-deps group with 7 updates
+
+Bumps the npm-deps group with 7 updates:
+
+| Package | From | To |
+| --- | --- | --- |
+| [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) | `24.1.0` | `24.2.0` |
+| [@types/react](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/react) | `19.1.8` | `19.1.9` |
+| [@types/react-dom](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/react-dom) | `19.1.6` | `19.1.7` |
+| [eslint-config-next](https://github.com/vercel/next.js/tree/HEAD/packages/eslint-config-next) | `15.4.4` | `15.4.5` |
+| [next](https://github.com/vercel/next.js) | `15.4.4` | `15.4.5` |
+| [typescript](https://github.com/microsoft/TypeScript) | `5.8.3` | `5.9.2` |
+| [vercel](https://github.com/vercel/vercel/tree/HEAD/packages/cli) | `44.6.3` | `44.7.0` |
+
+
+Updates `@types/node` from 24.1.0 to 24.2.0
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+
+Updates `@types/react` from 19.1.8 to 19.1.9
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/react)
+
+Updates `@types/react-dom` from 19.1.6 to 19.1.7
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/react-dom)
+
+Updates `eslint-config-next` from 15.4.4 to 15.4.5
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/commits/v15.4.5/packages/eslint-config-next)
+
+Updates `next` from 15.4.4 to 15.4.5
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/compare/v15.4.4...v15.4.5)
+
+Updates `typescript` from 5.8.3 to 5.9.2
+- [Release notes](https://github.com/microsoft/TypeScript/releases)
+- [Changelog](https://github.com/microsoft/TypeScript/blob/main/azure-pipelines.release-publish.yml)
+- [Commits](https://github.com/microsoft/TypeScript/compare/v5.8.3...v5.9.2)
+
+Updates `vercel` from 44.6.3 to 44.7.0
+- [Release notes](https://github.com/vercel/vercel/releases)
+- [Changelog](https://github.com/vercel/vercel/blob/main/packages/cli/CHANGELOG.md)
+- [Commits](https://github.com/vercel/vercel/commits/vercel@44.7.0/packages/cli)
+
+---
+updated-dependencies:
+- dependency-name: "@types/node"
+  dependency-version: 24.2.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: npm-deps
+- dependency-name: "@types/react"
+  dependency-version: 19.1.9
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: "@types/react-dom"
+  dependency-version: 19.1.7
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: eslint-config-next
+  dependency-version: 15.4.5
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: next
+  dependency-version: 15.4.5
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: typescript
+  dependency-version: 5.9.2
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: npm-deps
+- dependency-name: vercel
+  dependency-version: 44.7.0
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+  dependency-group: npm-deps
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#35be651</div>
+                                        <div class="message">Merge pull request #537 from Esendam-Software/dependabot/npm_and_yarn/dev/npm-deps-1eeb2409bd
+
+Bump the npm-deps group with 8 updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a52e79</div>
+                                        <div class="message">Bump the npm-deps group with 8 updates
+
+Bumps the npm-deps group with 8 updates:
+
+| Package | From | To |
+| --- | --- | --- |
+| [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) | `24.0.15` | `24.1.0` |
+| [eslint-config-next](https://github.com/vercel/next.js/tree/HEAD/packages/eslint-config-next) | `15.4.2` | `15.4.4` |
+| [next](https://github.com/vercel/next.js) | `15.4.2` | `15.4.4` |
+| [react](https://github.com/facebook/react/tree/HEAD/packages/react) | `19.1.0` | `19.1.1` |
+| [react-dom](https://github.com/facebook/react/tree/HEAD/packages/react-dom) | `19.1.0` | `19.1.1` |
+| [@cloudflare/next-on-pages](https://github.com/cloudflare/next-on-pages) | `1.13.12` | `1.13.13` |
+| [eslint-plugin-next-on-pages](https://github.com/cloudflare/next-on-pages/tree/HEAD/packages/eslint-plugin-next-on-pages) | `1.13.12` | `1.13.13` |
+| [vercel](https://github.com/vercel/vercel/tree/HEAD/packages/cli) | `44.5.0` | `44.6.3` |
+
+
+Updates `@types/node` from 24.0.15 to 24.1.0
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+
+Updates `eslint-config-next` from 15.4.2 to 15.4.4
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/commits/v15.4.4/packages/eslint-config-next)
+
+Updates `next` from 15.4.2 to 15.4.4
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/compare/v15.4.2...v15.4.4)
+
+Updates `react` from 19.1.0 to 19.1.1
+- [Release notes](https://github.com/facebook/react/releases)
+- [Changelog](https://github.com/facebook/react/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/facebook/react/commits/v19.1.1/packages/react)
+
+Updates `react-dom` from 19.1.0 to 19.1.1
+- [Release notes](https://github.com/facebook/react/releases)
+- [Changelog](https://github.com/facebook/react/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/facebook/react/commits/v19.1.1/packages/react-dom)
+
+Updates `@cloudflare/next-on-pages` from 1.13.12 to 1.13.13
+- [Release notes](https://github.com/cloudflare/next-on-pages/releases)
+- [Commits](https://github.com/cloudflare/next-on-pages/compare/@cloudflare/next-on-pages@1.13.12...@cloudflare/next-on-pages@1.13.13)
+
+Updates `eslint-plugin-next-on-pages` from 1.13.12 to 1.13.13
+- [Release notes](https://github.com/cloudflare/next-on-pages/releases)
+- [Changelog](https://github.com/cloudflare/next-on-pages/blob/main/packages/eslint-plugin-next-on-pages/CHANGELOG.md)
+- [Commits](https://github.com/cloudflare/next-on-pages/commits/eslint-plugin-next-on-pages@1.13.13/packages/eslint-plugin-next-on-pages)
+
+Updates `vercel` from 44.5.0 to 44.6.3
+- [Release notes](https://github.com/vercel/vercel/releases)
+- [Changelog](https://github.com/vercel/vercel/blob/main/packages/cli/CHANGELOG.md)
+- [Commits](https://github.com/vercel/vercel/commits/vercel@44.6.3/packages/cli)
+
+---
+updated-dependencies:
+- dependency-name: "@types/node"
+  dependency-version: 24.1.0
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: npm-deps
+- dependency-name: eslint-config-next
+  dependency-version: 15.4.4
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: next
+  dependency-version: 15.4.4
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: react
+  dependency-version: 19.1.1
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: react-dom
+  dependency-version: 19.1.1
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: "@cloudflare/next-on-pages"
+  dependency-version: 1.13.13
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: eslint-plugin-next-on-pages
+  dependency-version: 1.13.13
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: vercel
+  dependency-version: 44.6.3
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+  dependency-group: npm-deps
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#68e5229</div>
+                                        <div class="message">Merge pull request #536 from Esendam-Software/dependabot/npm_and_yarn/dev/npm-deps-2dfc46291a
+
+Bump the npm-deps group with 4 updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4fc8f5</div>
+                                        <div class="message">Bump the npm-deps group with 4 updates
+
+Bumps the npm-deps group with 4 updates: [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node), [eslint-config-next](https://github.com/vercel/next.js/tree/HEAD/packages/eslint-config-next), [next](https://github.com/vercel/next.js) and [vercel](https://github.com/vercel/vercel/tree/HEAD/packages/cli).
+
+
+Updates `@types/node` from 24.0.13 to 24.0.15
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+
+Updates `eslint-config-next` from 15.3.5 to 15.4.2
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/commits/v15.4.2/packages/eslint-config-next)
+
+Updates `next` from 15.3.5 to 15.4.2
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/compare/v15.3.5...v15.4.2)
+
+Updates `vercel` from 44.4.1 to 44.5.0
+- [Release notes](https://github.com/vercel/vercel/releases)
+- [Changelog](https://github.com/vercel/vercel/blob/main/packages/cli/CHANGELOG.md)
+- [Commits](https://github.com/vercel/vercel/commits/vercel@44.5.0/packages/cli)
+
+---
+updated-dependencies:
+- dependency-name: "@types/node"
+  dependency-version: 24.0.15
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: eslint-config-next
+  dependency-version: 15.4.2
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: npm-deps
+- dependency-name: next
+  dependency-version: 15.4.2
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+  dependency-group: npm-deps
+- dependency-name: vercel
+  dependency-version: 44.5.0
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+  dependency-group: npm-deps
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#086530d</div>
+                                        <div class="message">Merge pull request #535 from Esendam-Software/dependabot/npm_and_yarn/dev/npm-deps-0c5a34d5cf
+
+Bump the npm-deps group with 2 updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b118cc</div>
+                                        <div class="message">Bump the npm-deps group with 2 updates
+
+Bumps the npm-deps group with 2 updates: [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node) and [vercel](https://github.com/vercel/vercel/tree/HEAD/packages/cli).
+
+
+Updates `@types/node` from 24.0.10 to 24.0.13
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+
+Updates `vercel` from 44.2.12 to 44.4.1
+- [Release notes](https://github.com/vercel/vercel/releases)
+- [Changelog](https://github.com/vercel/vercel/blob/main/packages/cli/CHANGELOG.md)
+- [Commits](https://github.com/vercel/vercel/commits/vercel@44.4.1/packages/cli)
+
+---
+updated-dependencies:
+- dependency-name: "@types/node"
+  dependency-version: 24.0.13
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: vercel
+  dependency-version: 44.4.1
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+  dependency-group: npm-deps
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#89c22c5</div>
+                                        <div class="message">Merge pull request #534 from Esendam-Software/dependabot/npm_and_yarn/dev/npm-deps-7d4204437a
+
+Bump the npm-deps group with 4 updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f15095c</div>
+                                        <div class="message">Bump the npm-deps group with 4 updates
+
+Bumps the npm-deps group with 4 updates: [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node), [eslint-config-next](https://github.com/vercel/next.js/tree/HEAD/packages/eslint-config-next), [next](https://github.com/vercel/next.js) and [vercel](https://github.com/vercel/vercel/tree/HEAD/packages/cli).
+
+
+Updates `@types/node` from 24.0.7 to 24.0.10
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+
+Updates `eslint-config-next` from 15.3.4 to 15.3.5
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/commits/v15.3.5/packages/eslint-config-next)
+
+Updates `next` from 15.3.4 to 15.3.5
+- [Release notes](https://github.com/vercel/next.js/releases)
+- [Changelog](https://github.com/vercel/next.js/blob/canary/release.js)
+- [Commits](https://github.com/vercel/next.js/compare/v15.3.4...v15.3.5)
+
+Updates `vercel` from 44.2.7 to 44.2.12
+- [Release notes](https://github.com/vercel/vercel/releases)
+- [Changelog](https://github.com/vercel/vercel/blob/main/packages/cli/CHANGELOG.md)
+- [Commits](https://github.com/vercel/vercel/commits/vercel@44.2.12/packages/cli)
+
+---
+updated-dependencies:
+- dependency-name: "@types/node"
+  dependency-version: 24.0.10
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: eslint-config-next
+  dependency-version: 15.3.5
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: next
+  dependency-version: 15.3.5
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: vercel
+  dependency-version: 44.2.12
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#949a109</div>
+                                        <div class="message">Merge pull request #533 from Esendam-Software/dependabot/npm_and_yarn/dev/npm-deps-b3ce0d7414
+
+Bump the npm-deps group with 4 updates</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb5f34e</div>
+                                        <div class="message">Bump the npm-deps group with 4 updates
+
+Bumps the npm-deps group with 4 updates: [@tailwindcss/postcss](https://github.com/tailwindlabs/tailwindcss/tree/HEAD/packages/@tailwindcss-postcss), [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/HEAD/types/node), [tailwindcss](https://github.com/tailwindlabs/tailwindcss/tree/HEAD/packages/tailwindcss) and [vercel](https://github.com/vercel/vercel/tree/HEAD/packages/cli).
+
+
+Updates `@tailwindcss/postcss` from 4.1.10 to 4.1.11
+- [Release notes](https://github.com/tailwindlabs/tailwindcss/releases)
+- [Changelog](https://github.com/tailwindlabs/tailwindcss/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/tailwindlabs/tailwindcss/commits/v4.1.11/packages/@tailwindcss-postcss)
+
+Updates `@types/node` from 24.0.3 to 24.0.7
+- [Release notes](https://github.com/DefinitelyTyped/DefinitelyTyped/releases)
+- [Commits](https://github.com/DefinitelyTyped/DefinitelyTyped/commits/HEAD/types/node)
+
+Updates `tailwindcss` from 4.1.10 to 4.1.11
+- [Release notes](https://github.com/tailwindlabs/tailwindcss/releases)
+- [Changelog](https://github.com/tailwindlabs/tailwindcss/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/tailwindlabs/tailwindcss/commits/v4.1.11/packages/tailwindcss)
+
+Updates `vercel` from 43.3.0 to 44.2.7
+- [Release notes](https://github.com/vercel/vercel/releases)
+- [Changelog](https://github.com/vercel/vercel/blob/main/packages/cli/CHANGELOG.md)
+- [Commits](https://github.com/vercel/vercel/commits/vercel@44.2.7/packages/cli)
+
+---
+updated-dependencies:
+- dependency-name: "@tailwindcss/postcss"
+  dependency-version: 4.1.11
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: "@types/node"
+  dependency-version: 24.0.7
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: tailwindcss
+  dependency-version: 4.1.11
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+  dependency-group: npm-deps
+- dependency-name: vercel
+  dependency-version: 44.2.7
+  dependency-type: direct:development
+  update-type: version-update:semver-major
+  dependency-group: npm-deps
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -2584,7 +3295,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Sept 2025, 09:27:00 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Sept 2025, 10:06:56 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
