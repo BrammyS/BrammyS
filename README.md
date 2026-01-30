@@ -13,3 +13,4 @@
 - **[Discord-Bot-Template](https://github.com/BrammyS/Discord-Bot-Template)** — Boilerplate for Discord bots using slash commands and buttons  
 - **[GalleryPixels](https://github.com/BrammyS/GalleryPixels)** — A self-hosted catalog for photography & videography
 - **[B# Language](https://github.com/BrammyS/B-Sharp)** - B#, a custom language using Jasmin bytecode
+- **[Docker Terraria Server](https://github.com/BrammyS/Terraria)** - Docker images for a vanilla Terraria server - graceful shutdown and multi-arch 
